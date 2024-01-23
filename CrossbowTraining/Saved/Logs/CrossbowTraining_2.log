@@ -6448,3 +6448,346 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.23-10.54.06:570][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
 [2024.01.23-10.54.06:622][581]LogPlayLevel: Display: Destroying online subsystem :Context_87
 [2024.01.23-10.54.09:144][870]Cmd: SELECT NONE
+[2024.01.23-11.14.46:759][374]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Crossbow/M_Red.M_Red
+[2024.01.23-11.14.46:761][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-11.14.46:761][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-11.14.46:849][374]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.23-11.14.46:849][374]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.14.46:849][374]MaterialEditorStats: Shader Count: 0
+[2024.01.23-11.14.46:853][374]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: ================================================
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Total job queries 709, among them cache hits 337 (47.53%)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Tracking 150 distinct input hashes that result in 104 distinct outputs (69.33%)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: RAM used: 3.52 MiB of 3.20 GiB budget. Usage: 0.11%
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Shaders Compiled: 108
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Jobs assigned 108, completed 108 (100%)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Average time worker was idle: 707.89 s
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 1.54 s
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Job life time (pending + execution): average 0.59 s, max 1.64
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Shader code size: average 41.185 KiB, min 29.613 KiB, max 71.613 KiB
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.33 s
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Jobs were issued in 86 batches (only local compilation was used), average 1.26 jobs/batch
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Average processing rate: 10.46 jobs/sec
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Total thread time: 23.217 s
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Total thread preprocess time: 2.001 s
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Percentage time preprocessing: 8.62%
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Effective parallelization: 2.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 0.40 sec, max 0.72 sec, min 0.16 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 0.39 sec, max 0.68 sec, min 0.17 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 0.38 sec, max 0.66 sec, min 0.17 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    5 times, average 0.37 sec, max 0.64 sec, min 0.16 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.09% of total time (compiled   24 times, average 0.15 sec, max 0.75 sec, min 0.10 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.96% of total time (compiled   23 times, average 0.13 sec, max 0.17 sec, min 0.12 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.72% of total time (compiled    5 times, average 0.40 sec, max 0.72 sec, min 0.16 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 8.32% of total time (compiled    5 times, average 0.39 sec, max 0.68 sec, min 0.17 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.20% of total time (compiled    5 times, average 0.38 sec, max 0.66 sec, min 0.17 sec)
+[2024.01.23-11.14.46:874][375]LogShaderCompilers: Display: ================================================
+[2024.01.23-11.14.46:894][376]MaterialEditorStats: Base pass shader: 189 instructions
+[2024.01.23-11.14.46:894][376]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.23-11.14.46:894][376]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.23-11.14.46:894][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.14.46:894][376]MaterialEditorStats: Shader Count: 4
+[2024.01.23-11.14.56:272][493]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.23-11.14.56:273][493]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.14.56:273][493]MaterialEditorStats: Shader Count: 0
+[2024.01.23-11.14.56:628][535]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.23-11.14.56:628][535]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.23-11.14.56:628][535]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.14.56:628][535]MaterialEditorStats: Shader Count: 3
+[2024.01.23-11.14.57:089][547]MaterialEditorStats: Base pass shader: 189 instructions
+[2024.01.23-11.14.57:089][547]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.23-11.14.57:089][547]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.23-11.14.57:089][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.14.57:089][547]MaterialEditorStats: Shader Count: 4
+[2024.01.23-11.15.13:731][598]LogDerivedDataCache: C:/Users/bhawl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.135 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8819 files in 11123 folders with total size 677 MiB.
+[2024.01.23-11.18.39:826][357]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.23-11.18.39:826][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.18.39:826][357]MaterialEditorStats: Shader Count: 0
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: ================================================
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Total job queries 723, among them cache hits 345 (47.72%)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Tracking 156 distinct input hashes that result in 107 distinct outputs (68.59%)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: RAM used: 3.64 MiB of 3.20 GiB budget. Usage: 0.11%
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Shaders Compiled: 114
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Jobs assigned 114, completed 114 (100%)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Average time worker was idle: 821.54 s
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 1.54 s
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 1.64
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Shader code size: average 40.783 KiB, min 29.613 KiB, max 71.613 KiB
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.77 s
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Jobs were issued in 92 batches (only local compilation was used), average 1.24 jobs/batch
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Average processing rate: 10.58 jobs/sec
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Total thread time: 23.895 s
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Total thread preprocess time: 2.093 s
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Percentage time preprocessing: 8.76%
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Effective parallelization: 2.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 0.40 sec, max 0.72 sec, min 0.16 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 0.39 sec, max 0.68 sec, min 0.17 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 0.38 sec, max 0.66 sec, min 0.17 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    5 times, average 0.37 sec, max 0.64 sec, min 0.16 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.66% of total time (compiled   26 times, average 0.14 sec, max 0.75 sec, min 0.10 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.67% of total time (compiled   25 times, average 0.13 sec, max 0.17 sec, min 0.12 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.47% of total time (compiled    5 times, average 0.40 sec, max 0.72 sec, min 0.16 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 8.09% of total time (compiled    5 times, average 0.39 sec, max 0.68 sec, min 0.17 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.96% of total time (compiled    5 times, average 0.38 sec, max 0.66 sec, min 0.17 sec)
+[2024.01.23-11.18.39:834][358]LogShaderCompilers: Display: ================================================
+[2024.01.23-11.18.39:879][359]MaterialEditorStats: Base pass shader: 189 instructions
+[2024.01.23-11.18.39:879][359]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.23-11.18.39:879][359]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.23-11.18.39:879][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.18.39:879][359]MaterialEditorStats: Shader Count: 4
+[2024.01.23-11.18.41:495][530]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.23-11.18.41:503][530]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.23-11.18.41:503][530]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.18.41:503][530]MaterialEditorStats: Shader Count: 0
+[2024.01.23-11.18.41:551][533]MaterialEditorStats: Base pass shader: 189 instructions
+[2024.01.23-11.18.41:551][533]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.23-11.18.41:551][533]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.23-11.18.41:551][533]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.18.41:551][533]MaterialEditorStats: Shader Count: 4
+[2024.01.23-11.18.59:865][977]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bhawl\Downloads\SM_Crossbow_Loaded.fbx)
+[2024.01.23-11.18.59:869][977]LogFbx: Loading FBX Scene from C:\Users\bhawl\Downloads\SM_Crossbow_Loaded.fbx
+[2024.01.23-11.18.59:871][977]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.23-11.19.07:127][977]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.23-11.19.07:195][977]LogFbx: Display: Triangulating static mesh Crossbow
+[2024.01.23-11.19.07:208][977]LogStaticMesh: Display: Building static mesh SM_Crossbow_Loaded...
+[2024.01.23-11.19.07:216][977]LogStaticMesh: Adjacency [0.00s], tris: 830, UVs 2
+[2024.01.23-11.19.07:218][977]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.01.23-11.19.07:218][977]LogStaticMesh: Leaves [0.00s]
+[2024.01.23-11.19.07:240][977]LogStaticMesh: Reduce [0.02s]
+[2024.01.23-11.19.07:250][977]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 568
+[2024.01.23-11.19.07:251][977]LogStaticMesh: ConstrainClusters:
+[2024.01.23-11.19.07:251][977]LogStaticMesh:   Input: 14 Clusters, 1710 Triangles and 2938 Vertices
+[2024.01.23-11.19.07:251][977]LogStaticMesh:   Output without splits: 14 Clusters, 1710 Triangles and 2938 Vertices
+[2024.01.23-11.19.07:251][977]LogStaticMesh:   Output with splits: 14 Clusters, 1710 Triangles and 2938 Vertices
+[2024.01.23-11.19.07:251][977]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 4, 3 Materials: 3, At Least 4 Materials: 0
+[2024.01.23-11.19.07:251][977]LogStaticMesh: WritePages:
+[2024.01.23-11.19.07:251][977]LogStaticMesh:   Root: GPU size: 32320 bytes. 1 Pages. 32320.000 bytes per page (98.633% utilization).
+[2024.01.23-11.19.07:251][977]LogStaticMesh:   Streaming: GPU size: 10752 bytes. 1 Pages (1 with relative encoding). 10752.000 bytes per page (8.203% utilization).
+[2024.01.23-11.19.07:251][977]LogStaticMesh:   Page data disk size: 29920 bytes. Fixup data size: 192 bytes.
+[2024.01.23-11.19.07:251][977]LogStaticMesh:   Total GPU size: 43072 bytes, Total disk size: 30112 bytes.
+[2024.01.23-11.19.07:251][977]LogStaticMesh: Encode [0.00s]
+[2024.01.23-11.19.07:251][977]LogStaticMesh: Nanite build [0.03s]
+
+[2024.01.23-11.19.07:253][977]LogStaticMesh: Built static mesh [0.05s] /Game/FirstPerson/Blueprints/SM_Crossbow_Loaded.SM_Crossbow_Loaded
+[2024.01.23-11.19.07:355][980]LogMaterial: Display: Material /Game/FirstPerson/Blueprints/Brown_3.Brown_3 needed to have new flag set bUsedWithNanite !
+[2024.01.23-11.19.07:397][980]LogMaterial: Display: Material /Game/FirstPerson/Blueprints/Grey_1.Grey_1 needed to have new flag set bUsedWithNanite !
+[2024.01.23-11.19.07:406][980]LogMaterial: Display: Material /Game/FirstPerson/Blueprints/Brown_2.Brown_2 needed to have new flag set bUsedWithNanite !
+[2024.01.23-11.19.13:877][658]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/Blueprints/SM_Crossbow_Loaded.SM_Crossbow_Loaded
+[2024.01.23-11.19.13:881][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-11.19.13:881][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-11.19.14:237][658]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.01.23-11.19.19:006][218]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-11.19.19:006][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-11.19.23:353][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.23-11.19.24:734][696]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-11.19.24:748][696]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPerson/Blueprints/Brown_2.Brown_2
+	Asset Type: Material
+[2024.01.23-11.19.24:928][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.23-11.19.24:940][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.23-11.19.24:949][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.23-11.19.26:994][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.23-11.19.27:898][908]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-11.19.27:918][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.23-11.19.27:930][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.23-11.19.27:940][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.23-11.19.29:003][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.23-11.19.29:832][ 22]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-11.19.29:848][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.23-11.19.29:859][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.23-11.19.29:871][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.23-11.19.30:635][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.23-11.19.31:209][101]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-11.19.31:229][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.01.23-11.19.31:241][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.23-11.19.31:250][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.23-11.21.04:363][840]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bhawl\Downloads\SM_Crossbow_Loaded.fbx)
+[2024.01.23-11.21.04:366][840]LogFbx: Loading FBX Scene from C:\Users\bhawl\Downloads\SM_Crossbow_Loaded.fbx
+[2024.01.23-11.21.04:368][840]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.23-11.21.14:160][840]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.23-11.21.14:207][840]LogFbx: Display: Triangulating static mesh Crossbow
+[2024.01.23-11.21.16:142][ 39]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Crossbow/SM_Crossbow_Loaded.SM_Crossbow_Loaded
+[2024.01.23-11.21.16:146][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-11.21.16:146][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-11.21.16:501][ 39]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.01.23-11.21.21:879][672]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-11.21.21:879][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-11.22.07:217][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.23-11.22.08:112][407]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-11.22.08:130][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.23-11.22.08:140][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.23-11.22.08:149][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.23-11.22.13:510][892]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bhawl\Downloads\SM_Crossbow_Loaded.fbx)
+[2024.01.23-11.22.13:513][892]LogFbx: Loading FBX Scene from C:\Users\bhawl\Downloads\SM_Crossbow_Loaded.fbx
+[2024.01.23-11.22.13:516][892]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.23-11.22.16:568][892]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.23-11.22.16:606][892]LogFbx: Display: Triangulating static mesh Crossbow
+[2024.01.23-11.22.16:626][892]LogFbx: Display: Triangulating static mesh Bolt
+[2024.01.23-11.22.16:628][892]LogStaticMesh: Display: Building static mesh SM_Crossbow_Loaded_Bolt...
+[2024.01.23-11.22.16:631][892]LogStaticMesh: Adjacency [0.00s], tris: 120, UVs 2
+[2024.01.23-11.22.16:631][892]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.01.23-11.22.16:631][892]LogStaticMesh: Leaves [0.00s]
+[2024.01.23-11.22.16:631][892]LogStaticMesh: Reduce [0.00s]
+[2024.01.23-11.22.16:631][892]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 120
+[2024.01.23-11.22.16:631][892]LogStaticMesh: ConstrainClusters:
+[2024.01.23-11.22.16:631][892]LogStaticMesh:   Input: 1 Clusters, 120 Triangles and 201 Vertices
+[2024.01.23-11.22.16:631][892]LogStaticMesh:   Output without splits: 1 Clusters, 120 Triangles and 201 Vertices
+[2024.01.23-11.22.16:631][892]LogStaticMesh:   Output with splits: 1 Clusters, 120 Triangles and 201 Vertices
+[2024.01.23-11.22.16:631][892]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 1, 3 Materials: 0, At Least 4 Materials: 0
+[2024.01.23-11.22.16:631][892]LogStaticMesh: WritePages:
+[2024.01.23-11.22.16:631][892]LogStaticMesh:   Root: GPU size: 2852 bytes. 1 Pages. 2852.000 bytes per page (8.704% utilization).
+[2024.01.23-11.22.16:631][892]LogStaticMesh:   Streaming: 0 bytes.
+[2024.01.23-11.22.16:631][892]LogStaticMesh:   Page data disk size: 2760 bytes. Fixup data size: 24 bytes.
+[2024.01.23-11.22.16:631][892]LogStaticMesh:   Total GPU size: 2852 bytes, Total disk size: 2784 bytes.
+[2024.01.23-11.22.16:631][892]LogStaticMesh: Encode [0.00s]
+[2024.01.23-11.22.16:631][892]LogStaticMesh: Nanite build [0.00s]
+
+[2024.01.23-11.22.16:632][892]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Crossbow/SM_Crossbow_Loaded_Bolt.SM_Crossbow_Loaded_Bolt
+[2024.01.23-11.22.16:639][892]LogFbx: Display: Triangulating static mesh Fletching
+[2024.01.23-11.22.16:640][892]LogStaticMesh: Display: Building static mesh SM_Crossbow_Loaded_Fletching...
+[2024.01.23-11.22.16:640][892]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 2
+[2024.01.23-11.22.16:640][892]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.01.23-11.22.16:640][892]LogStaticMesh: Leaves [0.00s]
+[2024.01.23-11.22.16:640][892]LogStaticMesh: Reduce [0.00s]
+[2024.01.23-11.22.16:640][892]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 12
+[2024.01.23-11.22.16:640][892]LogStaticMesh: ConstrainClusters:
+[2024.01.23-11.22.16:640][892]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2024.01.23-11.22.16:640][892]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2024.01.23-11.22.16:640][892]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2024.01.23-11.22.16:640][892]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.01.23-11.22.16:640][892]LogStaticMesh: WritePages:
+[2024.01.23-11.22.16:640][892]LogStaticMesh:   Root: GPU size: 492 bytes. 1 Pages. 492.000 bytes per page (1.501% utilization).
+[2024.01.23-11.22.16:640][892]LogStaticMesh:   Streaming: 0 bytes.
+[2024.01.23-11.22.16:640][892]LogStaticMesh:   Page data disk size: 624 bytes. Fixup data size: 24 bytes.
+[2024.01.23-11.22.16:640][892]LogStaticMesh:   Total GPU size: 492 bytes, Total disk size: 648 bytes.
+[2024.01.23-11.22.16:640][892]LogStaticMesh: Encode [0.00s]
+[2024.01.23-11.22.16:640][892]LogStaticMesh: Nanite build [0.00s]
+
+[2024.01.23-11.22.16:648][892]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Crossbow/SM_Crossbow_Loaded_Fletching.SM_Crossbow_Loaded_Fletching
+[2024.01.23-11.22.16:799][896]LogMaterial: Display: Material /Game/Assets/Crossbow/M_Red.M_Red needed to have new flag set bUsedWithNanite !
+[2024.01.23-11.22.16:802][896]LogMaterial: Display: Material /Engine/Transient.PreviewMaterial_0 needed to have new flag set bUsedWithNanite !
+[2024.01.23-11.22.16:821][896]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.23-11.22.16:821][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.22.16:821][896]MaterialEditorStats: Shader Count: 0
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: ================================================
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Total job queries 847, among them cache hits 451 (53.25%)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Tracking 156 distinct input hashes that result in 107 distinct outputs (68.59%)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: RAM used: 3.64 MiB of 3.20 GiB budget. Usage: 0.11%
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Shaders Compiled: 114
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Jobs assigned 122, completed 114 (93.44%)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Average time worker was idle: 836.89 s
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 1.54 s
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 1.64
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Shader code size: average 40.783 KiB, min 29.613 KiB, max 71.613 KiB
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.77 s
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Jobs were issued in 96 batches (only local compilation was used), average 1.23 jobs/batch
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Average processing rate: 10.58 jobs/sec
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Total thread time: 23.895 s
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Total thread preprocess time: 2.093 s
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Percentage time preprocessing: 8.76%
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Effective parallelization: 2.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 0.40 sec, max 0.72 sec, min 0.16 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 0.39 sec, max 0.68 sec, min 0.17 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 0.38 sec, max 0.66 sec, min 0.17 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    5 times, average 0.37 sec, max 0.64 sec, min 0.16 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.66% of total time (compiled   26 times, average 0.14 sec, max 0.75 sec, min 0.10 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.67% of total time (compiled   25 times, average 0.13 sec, max 0.17 sec, min 0.12 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.47% of total time (compiled    5 times, average 0.40 sec, max 0.72 sec, min 0.16 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 8.09% of total time (compiled    5 times, average 0.39 sec, max 0.68 sec, min 0.17 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.96% of total time (compiled    5 times, average 0.38 sec, max 0.66 sec, min 0.17 sec)
+[2024.01.23-11.22.16:823][896]LogShaderCompilers: Display: ================================================
+[2024.01.23-11.22.16:829][897]MaterialEditorStats: Base pass shader: 189 instructions
+[2024.01.23-11.22.16:829][897]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.23-11.22.16:829][897]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.23-11.22.16:829][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.23-11.22.16:829][897]MaterialEditorStats: Shader Count: 4
+[2024.01.23-11.22.27:608][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.23-11.22.28:724][989]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-11.22.28:741][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.23-11.22.28:753][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.23-11.22.28:763][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.23-11.22.29:477][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.23-11.22.30:195][ 61]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-11.22.30:213][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.23-11.22.30:224][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.01.23-11.22.30:233][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.23-11.22.38:021][931]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Crossbow/SM_Crossbow_Loaded_Crossbow.SM_Crossbow_Loaded_Crossbow
+[2024.01.23-11.22.38:025][931]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-11.22.38:025][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-11.22.38:385][931]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.01.23-11.22.57:660][758]LogSlate: Window 'Message' being destroyed
+[2024.01.23-11.22.57:666][758]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Crossbow/M_Red.M_Red
+(Selecting 'No' will cause all changes to be lost!)
+[2024.01.23-11.22.57:679][758]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-11.22.57:679][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-11.23.02:123][262]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-11.23.02:123][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-11.24.10:460][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.23-11.24.11:356][796]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.23-11.24.11:375][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.01.23-11.24.11:386][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.23-11.24.11:398][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.23-11.24.17:171][214]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\bhawl\Downloads\SM_Crossbow_Loaded.fbx)
+[2024.01.23-11.24.17:174][214]LogFbx: Loading FBX Scene from C:\Users\bhawl\Downloads\SM_Crossbow_Loaded.fbx
+[2024.01.23-11.24.17:176][214]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.23-11.24.19:428][214]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.23-11.24.19:479][214]LogFbx: Display: Triangulating static mesh Crossbow
+[2024.01.23-11.24.19:491][214]LogStaticMesh: Display: Building static mesh SM_Crossbow_Loaded...
+[2024.01.23-11.24.19:501][214]LogStaticMesh: Adjacency [0.00s], tris: 962, UVs 2
+[2024.01.23-11.24.19:502][214]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.01.23-11.24.19:502][214]LogStaticMesh: Leaves [0.00s]
+[2024.01.23-11.24.19:528][214]LogStaticMesh: Reduce [0.03s]
+[2024.01.23-11.24.19:540][214]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 646
+[2024.01.23-11.24.19:541][214]LogStaticMesh: ConstrainClusters:
+[2024.01.23-11.24.19:541][214]LogStaticMesh:   Input: 15 Clusters, 1844 Triangles and 3294 Vertices
+[2024.01.23-11.24.19:541][214]LogStaticMesh:   Output without splits: 15 Clusters, 1844 Triangles and 3294 Vertices
+[2024.01.23-11.24.19:541][214]LogStaticMesh:   Output with splits: 19 Clusters, 1844 Triangles and 3300 Vertices
+[2024.01.23-11.24.19:541][214]LogStaticMesh: Material Stats - Unique Materials: 6, Fast Path Clusters: 16, Slow Path Clusters: 3, 1 Material: 8, 2 Materials: 6, 3 Materials: 2, At Least 4 Materials: 3
+[2024.01.23-11.24.19:541][214]LogStaticMesh: WritePages:
+[2024.01.23-11.24.19:541][214]LogStaticMesh:   Root: GPU size: 31940 bytes. 1 Pages. 31940.000 bytes per page (97.473% utilization).
+[2024.01.23-11.24.19:541][214]LogStaticMesh:   Streaming: GPU size: 16676 bytes. 1 Pages (1 with relative encoding). 16676.000 bytes per page (12.723% utilization).
+[2024.01.23-11.24.19:541][214]LogStaticMesh:   Page data disk size: 36808 bytes. Fixup data size: 208 bytes.
+[2024.01.23-11.24.19:541][214]LogStaticMesh:   Total GPU size: 48616 bytes, Total disk size: 37016 bytes.
+[2024.01.23-11.24.19:541][214]LogStaticMesh: Encode [0.00s]
+[2024.01.23-11.24.19:541][214]LogStaticMesh: Nanite build [0.04s]
+
+[2024.01.23-11.24.19:543][214]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Crossbow/SM_Crossbow_Loaded.SM_Crossbow_Loaded
+[2024.01.23-11.24.21:203][368]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Crossbow/SM_Crossbow_Loaded.SM_Crossbow_Loaded
+[2024.01.23-11.24.21:207][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.23-11.24.21:207][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.23-11.24.21:575][368]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.01.23-11.24.55:060][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-11.24.55:092][324]LogSavePackage: Moving output files for package: /Game/Assets/Crossbow/SM_Crossbow_Loaded
+[2024.01.23-11.24.55:092][324]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/SM_Crossbow_Loaded88B6D58E48C6EE71F0063DAF2EBE6E10.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Crossbow/SM_Crossbow_Loaded.uasset'
+[2024.01.23-11.24.55:098][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 5.06 sec)
+[2024.01.23-11.24.55:099][324]AssetCheck: New page: Asset Save: SM_Crossbow_Loaded
+[2024.01.23-11.24.55:099][324]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Crossbow/SM_Crossbow_Loaded.SM_Crossbow_Loaded
+[2024.01.23-11.25.17:927][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.23-11.25.17:952][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Crossbow/M_Red" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Crossbow/M_Red.uasset" SILENT=true
+[2024.01.23-11.25.17:953][848]LogSavePackage: Moving output files for package: /Game/Assets/Crossbow/M_Red
+[2024.01.23-11.25.17:953][848]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/M_Red4836915B41AB895C81871EBFDFAE8702.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Crossbow/M_Red.uasset'
+[2024.01.23-11.25.17:959][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 5.09 sec)
+[2024.01.23-11.25.17:959][848]AssetCheck: New page: Asset Save: M_Red
+[2024.01.23-11.25.17:959][848]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Crossbow/M_Red.M_Red
+[2024.01.23-11.25.22:994][429]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.01.23-11.25.22:994][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.23-11.26.56:765][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
