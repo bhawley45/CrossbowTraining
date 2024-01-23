@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Brown_2.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Grey_1.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Brown_3.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Crossbow.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/Grey_1.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/Brown_2.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/Brown_3.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/crossbow.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/Materials/Grey_1.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/Materials/Brown_3.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/Materials/Brown_2.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5V/MBO2GKA5L5SAAN8JBBNEL4.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/FirstPerson/Blueprints/GM_ShooterGame.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/Crosshair.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/UI/Crosshair.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Assets/UI/HUD_Crosshair.uasset",
+				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/6B/HHDC3CKWZNL1M538O6G5O9.uasset"
+			]
+		}
+	]
+}
