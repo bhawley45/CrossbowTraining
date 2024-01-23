@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/GM_ShooterGame.uasset",
 				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/bhawl/Documents/Unreal Projects/HolidayShootout/Content/Brown_2.uasset",
