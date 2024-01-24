@@ -1385,3 +1385,96 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-13.20.43:419][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 818 ms)
 [2024.01.24-13.20.43:420][ 14]AssetCheck: New page: Asset Save: WBP_MainMenu
 [2024.01.24-13.20.43:420][ 14]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-13.22.00:638][868]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-13.22.01:392][952]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-13.22.02:451][ 72]LogAssetEditorSubsystem: Opening Asset editor for GeometryCollection /Game/Assets/Target/SM_Target_Bomb_SM_Target_Bomb/BP_Target_Bomb_GeometryCollection.BP_Target_Bomb_GeometryCollection
+[2024.01.24-13.22.06:032][493]LogChaos: NewSimplicial: InitialSize: 98, ImplicitExterior: 0, FullCopy: 1, FinalSize: 42
+[2024.01.24-13.22.06:032][493]LogChaos: NewSimplicial: InitialSize: 77, ImplicitExterior: 0, FullCopy: 1, FinalSize: 36
+[2024.01.24-13.22.06:033][493]LogChaos: NewSimplicial: InitialSize: 118, ImplicitExterior: 0, FullCopy: 1, FinalSize: 44
+[2024.01.24-13.22.06:033][493]LogChaos: NewSimplicial: InitialSize: 242, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:033][493]LogChaos: NewSimplicial: InitialSize: 121, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:033][493]LogChaos: NewSimplicial: InitialSize: 147, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:033][493]LogChaos: NewSimplicial: InitialSize: 34, ImplicitExterior: 0, FullCopy: 1, FinalSize: 21
+[2024.01.24-13.22.06:033][493]LogChaos: NewSimplicial: InitialSize: 337, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:033][493]LogChaos: NewSimplicial: InitialSize: 145, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:033][493]LogChaos: NewSimplicial: InitialSize: 117, ImplicitExterior: 0, FullCopy: 1, FinalSize: 48
+[2024.01.24-13.22.06:034][493]LogChaos: NewSimplicial: InitialSize: 262, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:034][493]LogChaos: NewSimplicial: InitialSize: 68, ImplicitExterior: 0, FullCopy: 1, FinalSize: 43
+[2024.01.24-13.22.06:034][493]LogChaos: NewSimplicial: InitialSize: 104, ImplicitExterior: 0, FullCopy: 1, FinalSize: 53
+[2024.01.24-13.22.06:034][493]LogChaos: NewSimplicial: InitialSize: 125, ImplicitExterior: 0, FullCopy: 1, FinalSize: 54
+[2024.01.24-13.22.06:034][493]LogChaos: NewSimplicial: InitialSize: 138, ImplicitExterior: 0, FullCopy: 1, FinalSize: 54
+[2024.01.24-13.22.06:034][493]LogChaos: NewSimplicial: InitialSize: 199, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:034][493]LogChaos: NewSimplicial: InitialSize: 509, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:034][493]LogChaos: NewSimplicial: InitialSize: 124, ImplicitExterior: 0, FullCopy: 1, FinalSize: 52
+[2024.01.24-13.22.06:035][493]LogChaos: NewSimplicial: InitialSize: 103, ImplicitExterior: 0, FullCopy: 1, FinalSize: 59
+[2024.01.24-13.22.06:035][493]LogChaos: NewSimplicial: InitialSize: 247, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:035][493]LogChaos: NewSimplicial: InitialSize: 82, ImplicitExterior: 0, FullCopy: 1, FinalSize: 41
+[2024.01.24-13.22.06:035][493]LogChaos: NewSimplicial: InitialSize: 144, ImplicitExterior: 0, FullCopy: 1, FinalSize: 52
+[2024.01.24-13.22.06:035][493]LogChaos: NewSimplicial: InitialSize: 101, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:035][493]LogChaos: NewSimplicial: InitialSize: 119, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:035][493]LogChaos: NewSimplicial: InitialSize: 101, ImplicitExterior: 0, FullCopy: 1, FinalSize: 48
+[2024.01.24-13.22.06:035][493]LogChaos: NewSimplicial: InitialSize: 94, ImplicitExterior: 0, FullCopy: 1, FinalSize: 45
+[2024.01.24-13.22.06:036][493]LogChaos: NewSimplicial: InitialSize: 168, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:036][493]LogChaos: NewSimplicial: InitialSize: 363, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:036][493]LogChaos: NewSimplicial: InitialSize: 45, ImplicitExterior: 0, FullCopy: 1, FinalSize: 23
+[2024.01.24-13.22.06:036][493]LogChaos: NewSimplicial: InitialSize: 57, ImplicitExterior: 0, FullCopy: 1, FinalSize: 33
+[2024.01.24-13.22.06:036][493]LogChaos: NewSimplicial: InitialSize: 123, ImplicitExterior: 0, FullCopy: 1, FinalSize: 47
+[2024.01.24-13.22.06:036][493]LogChaos: NewSimplicial: InitialSize: 22, ImplicitExterior: 0, FullCopy: 1, FinalSize: 14
+[2024.01.24-13.22.06:036][493]LogChaos: NewSimplicial: InitialSize: 247, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:036][493]LogChaos: NewSimplicial: InitialSize: 136, ImplicitExterior: 0, FullCopy: 1, FinalSize: 56
+[2024.01.24-13.22.06:036][493]LogChaos: NewSimplicial: InitialSize: 100, ImplicitExterior: 0, FullCopy: 1, FinalSize: 46
+[2024.01.24-13.22.06:037][493]LogChaos: NewSimplicial: InitialSize: 64, ImplicitExterior: 0, FullCopy: 1, FinalSize: 29
+[2024.01.24-13.22.06:037][493]LogChaos: NewSimplicial: InitialSize: 189, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:037][493]LogChaos: NewSimplicial: InitialSize: 502, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:037][493]LogChaos: NewSimplicial: InitialSize: 264, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:037][493]LogChaos: NewSimplicial: InitialSize: 80, ImplicitExterior: 0, FullCopy: 1, FinalSize: 45
+[2024.01.24-13.22.06:037][493]LogChaos: NewSimplicial: InitialSize: 93, ImplicitExterior: 0, FullCopy: 1, FinalSize: 57
+[2024.01.24-13.22.06:037][493]LogChaos: NewSimplicial: InitialSize: 130, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:037][493]LogChaos: NewSimplicial: InitialSize: 40, ImplicitExterior: 0, FullCopy: 1, FinalSize: 24
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 691, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 67, ImplicitExterior: 0, FullCopy: 1, FinalSize: 42
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 91, ImplicitExterior: 0, FullCopy: 1, FinalSize: 44
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 14, ImplicitExterior: 0, FullCopy: 1, FinalSize: 10
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 182, ImplicitExterior: 0, FullCopy: 1, FinalSize: 59
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 109, ImplicitExterior: 0, FullCopy: 1, FinalSize: 52
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 28, ImplicitExterior: 0, FullCopy: 1, FinalSize: 16
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 47, ImplicitExterior: 0, FullCopy: 1, FinalSize: 22
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 212, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:038][493]LogChaos: NewSimplicial: InitialSize: 141, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:039][493]LogChaos: NewSimplicial: InitialSize: 182, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:039][493]LogChaos: NewSimplicial: InitialSize: 80, ImplicitExterior: 0, FullCopy: 1, FinalSize: 42
+[2024.01.24-13.22.06:039][493]LogChaos: NewSimplicial: InitialSize: 81, ImplicitExterior: 0, FullCopy: 1, FinalSize: 33
+[2024.01.24-13.22.06:039][493]LogChaos: NewSimplicial: InitialSize: 178, ImplicitExterior: 0, FullCopy: 1, FinalSize: 55
+[2024.01.24-13.22.06:039][493]LogChaos: NewSimplicial: InitialSize: 49, ImplicitExterior: 0, FullCopy: 1, FinalSize: 24
+[2024.01.24-13.22.06:039][493]LogChaos: NewSimplicial: InitialSize: 169, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:039][493]LogChaos: NewSimplicial: InitialSize: 110, ImplicitExterior: 0, FullCopy: 1, FinalSize: 59
+[2024.01.24-13.22.06:039][493]LogChaos: NewSimplicial: InitialSize: 105, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:039][493]LogChaos: NewSimplicial: InitialSize: 45, ImplicitExterior: 0, FullCopy: 1, FinalSize: 31
+[2024.01.24-13.22.06:040][493]LogChaos: NewSimplicial: InitialSize: 130, ImplicitExterior: 0, FullCopy: 1, FinalSize: 58
+[2024.01.24-13.22.06:040][493]LogChaos: NewSimplicial: InitialSize: 631, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:040][493]LogChaos: NewSimplicial: InitialSize: 148, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:040][493]LogChaos: NewSimplicial: InitialSize: 31, ImplicitExterior: 0, FullCopy: 1, FinalSize: 18
+[2024.01.24-13.22.06:040][493]LogChaos: NewSimplicial: InitialSize: 188, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:040][493]LogChaos: NewSimplicial: InitialSize: 82, ImplicitExterior: 0, FullCopy: 1, FinalSize: 47
+[2024.01.24-13.22.06:040][493]LogChaos: NewSimplicial: InitialSize: 216, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:041][493]LogChaos: NewSimplicial: InitialSize: 684, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.06:042][493]LogChaos: NewSimplicial: InitialSize: 5996, ImplicitExterior: 0, FullCopy: 1, FinalSize: 60
+[2024.01.24-13.22.30:417][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.24-13.22.30:424][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-13.22.30:532][398]LogSavePackage: Moving output files for package: /Game/Assets/Target/SM_Target_Bomb_SM_Target_Bomb/BP_Target_Bomb_GeometryCollection
+[2024.01.24-13.22.30:532][398]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_Target_Bomb_GeometryCollectioE77399BE407BF77A3BFA43A08A718433.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/SM_Target_Bomb_SM_Target_Bomb/BP_Target_Bomb_GeometryCollection.uasset'
+[2024.01.24-13.22.30:541][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 935 ms)
+[2024.01.24-13.22.30:542][398]AssetCheck: New page: Asset Save: BP_Target_Bomb_GeometryCollection
+[2024.01.24-13.22.30:542][398]LogContentValidation: Display: Validating /Script/GeometryCollectionEngine.GeometryCollection /Game/Assets/Target/SM_Target_Bomb_SM_Target_Bomb/BP_Target_Bomb_GeometryCollection.BP_Target_Bomb_GeometryCollection
+[2024.01.24-13.23.06:206][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Target_Bomb.BP_Target_Bomb
+[2024.01.24-13.23.06:207][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-13.23.06:207][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-13.23.06:318][418]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.01.24-13.24.03:368][556]BlueprintLog: New page: Compile BP_Target_Bomb
+[2024.01.24-13.24.03:433][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.24-13.24.03:535][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-13.24.03:658][556]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target_Bomb
+[2024.01.24-13.24.03:658][556]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_Target_Bomb8BD5AFF74C9240B2556524B06A83E922.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_Target_Bomb.uasset'
+[2024.01.24-13.24.03:666][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 1.06 sec)
+[2024.01.24-13.24.03:675][556]AssetCheck: New page: Asset Save: BP_Target_Bomb
+[2024.01.24-13.24.03:675][556]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target_Bomb.BP_Target_Bomb
