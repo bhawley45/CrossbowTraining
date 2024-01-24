@@ -13645,3 +13645,715 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get FirstPersonMesh
 [2024.01.24-05.40.21:460][302]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/1EWWBAXF1DJIY14WLAOMNS_Auto66EC823F34266372BF34AAB998702F5E3.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/DL/1EWWBAXF1DJIY14WLAOMNS_Auto6.uasset'
 [2024.01.24-05.40.21:469][302]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.031
 [2024.01.24-05.40.21:469][302]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2024.01.24-05.43.23:676][812]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.23:676][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.24:192][844]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.24-05.43.24:192][844]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.24:192][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.24:704][895]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.24-05.43.24:704][895]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.24:704][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.25:131][934]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.24-05.43.25:131][934]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.25:131][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.25:515][969]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.24-05.43.25:515][969]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.25:515][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.25:899][  4]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.24-05.43.25:899][  4]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.25:899][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.26:326][ 37]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.26:326][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.26:331][ 37]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.26:331][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.26:699][ 66]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.26:699][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.26:704][ 66]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.43.26:704][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.43.28:354][254]LogEditorViewport: Clicking Background
+[2024.01.24-05.44.06:764][694]LogViewport: Scene viewport resized to 2038x881, mode Windowed.
+[2024.01.24-05.44.06:779][695]LogViewport: Scene viewport resized to 2038x879, mode Windowed.
+[2024.01.24-05.44.06:802][696]LogViewport: Scene viewport resized to 2038x875, mode Windowed.
+[2024.01.24-05.44.06:823][697]LogViewport: Scene viewport resized to 2038x868, mode Windowed.
+[2024.01.24-05.44.06:846][698]LogViewport: Scene viewport resized to 2038x859, mode Windowed.
+[2024.01.24-05.44.06:869][699]LogViewport: Scene viewport resized to 2038x851, mode Windowed.
+[2024.01.24-05.44.06:892][700]LogViewport: Scene viewport resized to 2038x843, mode Windowed.
+[2024.01.24-05.44.06:913][701]LogViewport: Scene viewport resized to 2038x836, mode Windowed.
+[2024.01.24-05.44.06:936][702]LogViewport: Scene viewport resized to 2038x832, mode Windowed.
+[2024.01.24-05.44.06:955][703]LogViewport: Scene viewport resized to 2038x829, mode Windowed.
+[2024.01.24-05.44.06:977][704]LogViewport: Scene viewport resized to 2038x826, mode Windowed.
+[2024.01.24-05.44.06:999][705]LogViewport: Scene viewport resized to 2038x825, mode Windowed.
+[2024.01.24-05.44.07:021][706]LogViewport: Scene viewport resized to 2038x824, mode Windowed.
+[2024.01.24-05.44.07:037][707]LogViewport: Scene viewport resized to 2038x823, mode Windowed.
+[2024.01.24-05.44.07:056][708]LogViewport: Scene viewport resized to 2038x821, mode Windowed.
+[2024.01.24-05.44.07:074][709]LogViewport: Scene viewport resized to 2038x820, mode Windowed.
+[2024.01.24-05.44.07:095][710]LogViewport: Scene viewport resized to 2038x818, mode Windowed.
+[2024.01.24-05.44.07:115][711]LogViewport: Scene viewport resized to 2038x815, mode Windowed.
+[2024.01.24-05.44.07:135][712]LogViewport: Scene viewport resized to 2038x812, mode Windowed.
+[2024.01.24-05.44.07:156][713]LogViewport: Scene viewport resized to 2038x809, mode Windowed.
+[2024.01.24-05.44.07:177][714]LogViewport: Scene viewport resized to 2038x806, mode Windowed.
+[2024.01.24-05.44.07:197][715]LogViewport: Scene viewport resized to 2038x804, mode Windowed.
+[2024.01.24-05.44.07:220][716]LogViewport: Scene viewport resized to 2038x803, mode Windowed.
+[2024.01.24-05.44.07:240][717]LogViewport: Scene viewport resized to 2038x802, mode Windowed.
+[2024.01.24-05.44.07:258][718]LogViewport: Scene viewport resized to 2038x800, mode Windowed.
+[2024.01.24-05.44.13:950][497]LogViewport: Scene viewport resized to 2038x803, mode Windowed.
+[2024.01.24-05.44.13:966][498]LogViewport: Scene viewport resized to 2038x804, mode Windowed.
+[2024.01.24-05.44.13:987][499]LogViewport: Scene viewport resized to 2038x807, mode Windowed.
+[2024.01.24-05.44.14:003][500]LogViewport: Scene viewport resized to 2038x809, mode Windowed.
+[2024.01.24-05.44.14:024][501]LogViewport: Scene viewport resized to 2038x813, mode Windowed.
+[2024.01.24-05.44.14:047][502]LogViewport: Scene viewport resized to 2038x815, mode Windowed.
+[2024.01.24-05.44.14:069][503]LogViewport: Scene viewport resized to 2038x816, mode Windowed.
+[2024.01.24-05.44.14:090][504]LogViewport: Scene viewport resized to 2038x818, mode Windowed.
+[2024.01.24-05.44.14:108][505]LogViewport: Scene viewport resized to 2038x819, mode Windowed.
+[2024.01.24-05.44.14:144][508]LogViewport: Scene viewport resized to 2038x821, mode Windowed.
+[2024.01.24-05.44.14:161][509]LogViewport: Scene viewport resized to 2038x822, mode Windowed.
+[2024.01.24-05.44.14:182][510]LogViewport: Scene viewport resized to 2038x823, mode Windowed.
+[2024.01.24-05.44.14:202][511]LogViewport: Scene viewport resized to 2038x825, mode Windowed.
+[2024.01.24-05.44.14:220][512]LogViewport: Scene viewport resized to 2038x827, mode Windowed.
+[2024.01.24-05.44.14:243][513]LogViewport: Scene viewport resized to 2038x828, mode Windowed.
+[2024.01.24-05.44.14:270][514]LogViewport: Scene viewport resized to 2038x832, mode Windowed.
+[2024.01.24-05.44.14:288][515]LogViewport: Scene viewport resized to 2038x836, mode Windowed.
+[2024.01.24-05.44.14:310][516]LogViewport: Scene viewport resized to 2038x838, mode Windowed.
+[2024.01.24-05.44.14:382][523]LogViewport: Scene viewport resized to 2038x840, mode Windowed.
+[2024.01.24-05.44.14:397][524]LogViewport: Scene viewport resized to 2038x841, mode Windowed.
+[2024.01.24-05.44.14:426][526]LogViewport: Scene viewport resized to 2038x842, mode Windowed.
+[2024.01.24-05.44.14:444][527]LogViewport: Scene viewport resized to 2038x844, mode Windowed.
+[2024.01.24-05.44.14:468][529]LogViewport: Scene viewport resized to 2038x845, mode Windowed.
+[2024.01.24-05.44.14:486][530]LogViewport: Scene viewport resized to 2038x849, mode Windowed.
+[2024.01.24-05.44.14:505][531]LogViewport: Scene viewport resized to 2038x850, mode Windowed.
+[2024.01.24-05.44.14:526][532]LogViewport: Scene viewport resized to 2038x852, mode Windowed.
+[2024.01.24-05.44.14:542][533]LogViewport: Scene viewport resized to 2038x855, mode Windowed.
+[2024.01.24-05.44.14:563][534]LogViewport: Scene viewport resized to 2038x857, mode Windowed.
+[2024.01.24-05.44.24:307][688]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-05.44.24:348][689]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-05.44.28:805][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.24-05.44.40:145][202]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-05.44.40:173][202]LogUObjectGlobals: Force Deleting 19 Package(s):
+	Asset Name: /Game/FPWeapon/Textures/T_FPGun_M.T_FPGun_M
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_Screen.ML_Screen
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+	Asset Type: MaterialFunction
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+	Asset Type: Texture2D
+	Asset Name: /Game/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.FirstPersonTemplateWeaponFire02
+	Asset Type: SoundWave
+[2024.01.24-05.44.40:380][202]LogStaticMesh: Display: Building static mesh FirstPersonProjectileMesh...
+[2024.01.24-05.44.40:383][202]LogMaterial: Warning: [AssetLog] C:\Users\bhawl\Documents\GitHub\Unreal-Projects\CrossbowTraining\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2024.01.24-05.44.40:383][202]LogStaticMesh: Built static mesh [0.00s] /Game/FPWeapon/Mesh/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2024.01.24-05.44.40:385][202]LogMaterial: Warning: [AssetLog] C:\Users\bhawl\Documents\GitHub\Unreal-Projects\CrossbowTraining\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2024.01.24-05.44.40:386][202]LogMaterial: Warning: [AssetLog] C:\Users\bhawl\Documents\GitHub\Unreal-Projects\CrossbowTraining\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2024.01.24-05.44.40:386][202]LogMaterial: Warning: [AssetLog] C:\Users\bhawl\Documents\GitHub\Unreal-Projects\CrossbowTraining\Content\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Material Function
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+	Missing Material Function
+
+[2024.01.24-05.44.40:683][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.01.24-05.44.40:700][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.24-05.44.40:716][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.44.46:950][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-05.44.54:470][784]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.01.24-05.44.54:470][784]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.01.24-05.44.55:914][946]LogMetaData: Removing '/Game/Assets/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C' ref from Metadata '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2024.01.24-05.44.55:914][946]LogMetaData: Removing '/Game/Assets/FirstPersonArms/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2024.01.24-05.44.55:914][946]LogMetaData: Removing '/Game/Assets/FirstPersonArms/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2024.01.24-05.44.55:914][946]LogMetaData: Removing '/Game/Assets/FirstPersonArms/Animations/FirstPerson_AnimBP.SKEL_FirstPerson_AnimBP_C' ref from Metadata '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2024.01.24-05.44.55:914][946]LogMetaData: Removing '/Game/Assets/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2024.01.24-05.44.55:914][946]LogMetaData: Removing '/Game/Assets/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:AnimGraph' ref from Metadata '/Game/FirstPersonArms/Animations/FirstPerson_AnimBP.PackageMetaData'
+[2024.01.24-05.44.55:956][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-05.44.56:018][946]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.24-05.44.56:019][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_FirstPersonCharacterA9406C49418B392C3FC861B0FFCD44AB.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.24-05.44.56:032][946]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Crossbow
+[2024.01.24-05.44.56:032][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_Crossbow05102E834F5ACC1BDF52BC8DC5C44E26.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_Crossbow.uasset'
+[2024.01.24-05.44.56:034][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton
+[2024.01.24-05.44.56:034][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/SK_Mannequin_Arms_Skeleton676747934022ABC631137C93E7F364BD.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset'
+[2024.01.24-05.44.56:039][946]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms'
+[2024.01.24-05.44.56:047][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Falling
+[2024.01.24-05.44.56:047][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_FallingF1F1254A4E9E357A17FC668F4A4C69F1.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Falling.uasset'
+[2024.01.24-05.44.56:048][946]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms'
+[2024.01.24-05.44.56:057][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Idle
+[2024.01.24-05.44.56:057][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Idle66703A414528900FC2A75A9E91F8C21A.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Idle.uasset'
+[2024.01.24-05.44.56:057][946]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms'
+[2024.01.24-05.44.56:065][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Jump
+[2024.01.24-05.44.56:065][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_JumpE546CED747D39327E8C11690542292B2.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Jump.uasset'
+[2024.01.24-05.44.56:066][946]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms'
+[2024.01.24-05.44.56:073][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Land
+[2024.01.24-05.44.56:073][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Land863F4F8D43EF2E49577CBAB8192DD880.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Land.uasset'
+[2024.01.24-05.44.56:081][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Falling
+[2024.01.24-05.44.56:081][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Rifle_Falling728BE79245E3C94FB73564B31FA34CCE.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Rifle_Falling.uasset'
+[2024.01.24-05.44.56:089][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Idle
+[2024.01.24-05.44.56:089][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Rifle_Idle8663F54143AACBCFB3EE57900CCB4EED.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Rifle_Idle.uasset'
+[2024.01.24-05.44.56:097][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Jump
+[2024.01.24-05.44.56:097][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Rifle_Jump5B0FCA884BF07914BC81CFA443400B60.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Rifle_Jump.uasset'
+[2024.01.24-05.44.56:105][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Land
+[2024.01.24-05.44.56:105][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Rifle_Land65688BE04204B3BA9A7408A7E40BFC18.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Rifle_Land.uasset'
+[2024.01.24-05.44.56:113][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Run
+[2024.01.24-05.44.56:113][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Rifle_Run8118336B42D7F32D45C8928F430F9BF7.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Rifle_Run.uasset'
+[2024.01.24-05.44.56:114][946]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms'
+[2024.01.24-05.44.56:121][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Run_Fwd
+[2024.01.24-05.44.56:121][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Run_Fwd51DFEE8C430BC1A915E921954A493A7A.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Run_Fwd.uasset'
+[2024.01.24-05.44.56:155][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FirstPerson_AnimBP
+[2024.01.24-05.44.56:155][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FirstPerson_AnimBP2B7513D746381FAC0E6A5AB247E150F2.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset'
+[2024.01.24-05.44.56:168][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Fire
+[2024.01.24-05.44.56:168][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Rifle_Fire75EE5D504D5FA7F0817C3CBE7A387986.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Rifle_Fire.uasset'
+[2024.01.24-05.44.56:170][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Shoot_Montage
+[2024.01.24-05.44.56:170][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FP_Rifle_Shoot_Montage4A734CAF45B223BCB43289BF02191D1F.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Animations/FP_Rifle_Shoot_Montage.uasset'
+[2024.01.24-05.44.56:177][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2024.01.24-05.44.56:177][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T_ML_Rubber_Blue_01_DCA87AD7645D9575A6A3A638A866C3D36.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2024.01.24-05.44.56:187][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2024.01.24-05.44.56:187][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T_ML_Rubber_Blue_01_N47124E2844CEDDF65720F1BA460CC6CB.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2024.01.24-05.44.56:189][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2024.01.24-05.44.56:189][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/ML_GlossyBlack_Latex_UE4505964724877C24E3FBB0B9A35117AD5.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2024.01.24-05.44.56:191][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2024.01.24-05.44.56:191][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/ML_Plastic_Shiny_Beige51456F624F59BE75358B8EB53465B2DC.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2024.01.24-05.44.56:193][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Textures/UE4_LOGO_CARD
+[2024.01.24-05.44.56:193][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/UE4_LOGO_CARDB1E9353E4CBB5388014FD794066B11CF.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.uasset'
+[2024.01.24-05.44.56:194][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2024.01.24-05.44.56:194][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/ML_Plastic_Shiny_Beige_LOGOF4F498D94F016CA80BC397BF20EA3AB9.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2024.01.24-05.44.56:205][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01
+[2024.01.24-05.44.56:205][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T_ML_Aluminum019665CCE447C6D10112F341B1AF7D69BE.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2024.01.24-05.44.56:212][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2024.01.24-05.44.56:212][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T_ML_Aluminum01_N7113526E43B7A2C3058DF691BBAFC006.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2024.01.24-05.44.56:215][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2024.01.24-05.44.56:215][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/ML_SoftMetal_UE45D68572041FE1A521EDBB193FDB92ED7.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2024.01.24-05.44.56:222][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Textures/UE4_Mannequin__normals
+[2024.01.24-05.44.56:222][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/UE4_Mannequin__normalsB5E7EC9D47FF4023951D92BE5516A58D.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.uasset'
+[2024.01.24-05.44.56:225][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2024.01.24-05.44.56:225][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/UE4_Mannequin_MAT_MASKAA6B083254BCB38C8CB0B84A83724C601.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2024.01.24-05.44.56:229][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Materials/M_UE4Man_Body
+[2024.01.24-05.44.56:229][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/M_UE4Man_BodyA3BAED944E992A902C333DB968FF0323.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Materials/M_UE4Man_Body.uasset'
+[2024.01.24-05.44.56:231][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset
+[2024.01.24-05.44.56:231][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/SK_Mannequin_Arms_PhysicsAsset76215EE240F445A3F06AD6828946FB68.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset'
+[2024.01.24-05.44.56:246][946]LogSavePackage: Moving output files for package: /Game/Assets/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms
+[2024.01.24-05.44.56:246][946]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/SK_Mannequin_ArmsE27F09C748D43871316AF38EB3D24A6E.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2024.01.24-05.44.56:255][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 298 ms (total: 17.3 sec)
+[2024.01.24-05.44.56:358][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-05.44.56:376][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-05.44.56:388][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.44.56:418][946]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Crossbow.BP_Crossbow
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.Skeleton /Game/Assets/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.SK_Mannequin_Arms_Skeleton
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Falling.FP_Falling
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Idle.FP_Idle
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Jump.FP_Jump
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Land.FP_Land
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Falling.FP_Rifle_Falling
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Idle.FP_Rifle_Idle
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Jump.FP_Rifle_Jump
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Land.FP_Rifle_Land
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Run.FP_Rifle_Run
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Run_Fwd.FP_Run_Fwd
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Assets/FirstPersonArms/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Fire.FP_Rifle_Fire
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Assets/FirstPersonArms/Animations/FP_Rifle_Shoot_Montage.FP_Rifle_Shoot_Montage
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.ML_GlossyBlack_Latex_UE4
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.ML_Plastic_Shiny_Beige
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/FirstPersonArms/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.ML_Plastic_Shiny_Beige_LOGO
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N
+[2024.01.24-05.44.56:418][946]LogContentValidation: Display: Validating /Script/Engine.MaterialFunction /Game/Assets/FirstPersonArms/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.ML_SoftMetal_UE4
+[2024.01.24-05.44.56:419][946]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/FirstPersonArms/Character/Textures/UE4_Mannequin__normals.UE4_Mannequin__normals
+[2024.01.24-05.44.56:419][946]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/FirstPersonArms/Character/Textures/UE4_Mannequin_MAT_MASKA.UE4_Mannequin_MAT_MASKA
+[2024.01.24-05.44.56:419][946]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/FirstPersonArms/Character/Materials/M_UE4Man_Body.M_UE4Man_Body
+[2024.01.24-05.44.56:419][946]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/Assets/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.SK_Mannequin_Arms_PhysicsAsset
+[2024.01.24-05.44.56:419][946]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/Assets/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2024.01.24-05.45.16:804][239]LogSlate: Window 'Message' being destroyed
+[2024.01.24-05.45.16:811][239]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+FirstPersonMap
+BP_FirstPersonGameMode
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.01.24-05.45.25:346][216]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.01.24-05.45.25:353][216]LogContentBrowser: Creating deferred item: NewWorld
+[2024.01.24-05.45.25:359][217]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.01.24-05.45.31:073][903]LogContentBrowser: Attempting asset rename: NewWorld -> VillageLevel
+[2024.01.24-05.45.31:080][903]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-05.45.31:080][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-05.45.31:083][903]LogContentBrowser: End creating deferred item NewWorld
+[2024.01.24-05.45.32:500][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-05.45.32:537][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.24-05.45.32:545][ 71]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/VillageLevel
+[2024.01.24-05.45.32:545][ 71]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/VillageLevel6D837A52468DDC19D17941BF8D6E2C1A.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/VillageLevel.umap'
+[2024.01.24-05.45.32:547][ 71]LogFileHelpers: Saving map 'VillageLevel' took 0.023
+[2024.01.24-05.45.32:555][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 17.4 sec)
+[2024.01.24-05.45.32:556][ 71]AssetCheck: New page: Asset Save: VillageLevel
+[2024.01.24-05.45.32:556][ 71]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/VillageLevel.VillageLevel
+[2024.01.24-05.48.14:842][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.24-05.48.19:264][154]LogSlate: Window 'Save Content' being destroyed
+[2024.01.24-05.48.19:288][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-05.48.19:322][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.48.19:336][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.48.19:348][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.48.19:357][154]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
+[2024.01.24-05.48.19:357][154]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_FirstPersonProjectileCCF598E048B0A276DC34C7A6A280128E.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset'
+[2024.01.24-05.48.19:359][154]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/DL/1EWWBAXF1DJIY14WLAOMNS
+[2024.01.24-05.48.19:359][154]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/1EWWBAXF1DJIY14WLAOMNSEB22D1B949D0FF562DF25096FC7426AC.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/DL/1EWWBAXF1DJIY14WLAOMNS.uasset'
+[2024.01.24-05.48.19:366][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 17.4 sec)
+[2024.01.24-05.48.19:366][154]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/VillageLevel.VillageLevel
+[2024.01.24-05.48.19:366][154]Cmd: MAP LOAD FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/VillageLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.24-05.48.19:366][154]LightingResults: New page: Lighting Build
+[2024.01.24-05.48.19:369][154]LoadErrors: New page: Loading map: VillageLevel.umap
+[2024.01.24-05.48.19:418][154]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.48.19:418][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.48.19:419][154]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-05.48.19:419][154]MapCheck: New page: Map Check
+[2024.01.24-05.48.19:419][154]LightingResults: New page: Lighting Build
+[2024.01.24-05.48.19:429][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-05.48.19:437][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.24-05.48.19:444][154]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.48.19:444][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.48.19:454][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.24-05.48.19:467][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.01.24-05.48.19:473][154]LogAudio: Display: Audio Device (ID: 1) registered with world 'VillageLevel'.
+[2024.01.24-05.48.19:473][154]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-05.48.19:473][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-05.48.19:473][154]LogAIModule: Creating AISystem for world VillageLevel
+[2024.01.24-05.48.19:514][154]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.24-05.48.19:525][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.24-05.48.19:531][154]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.24-05.48.19:531][154]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2024.01.24-05.48.19:535][154]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.24-05.48.19:535][154]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2024.01.24-05.48.31:909][505]LogObjectTools: Deleting 1 worlds: /Game/FirstPerson/Maps/VillageLevel.VillageLevel
+[2024.01.24-05.48.31:909][505]LogObjectTools: Currently 17 active worlds: /Game/FirstPerson/Maps/VillageLevel.VillageLevel, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_31, /Engine/Transient.World_32, /Engine/Transient.World_56, /Engine/Transient.World_57, /Engine/Transient.World_58, /Engine/Transient.World_59
+[2024.01.24-05.48.33:676][505]LogSlate: Window 'Unable to delete level' being destroyed
+[2024.01.24-05.48.33:681][505]Message dialog closed, result: Cancel, title: Unable to delete level, text: Unable to delete level while it is open
+[2024.01.24-05.48.34:456][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-05.48.34:488][595]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-05.48.34:488][595]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.24-05.48.34:488][595]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-05.48.34:488][595]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-05.48.34:522][595]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-05.48.34:522][595]LogWorldPartition: Display: WorldPartition initialize took 33 ms (total: 242 ms)
+[2024.01.24-05.48.34:526][595]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.01.24-05.48.34:526][595]Cmd: MAP LOAD FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.24-05.48.34:526][595]LightingResults: New page: Lighting Build
+[2024.01.24-05.48.34:526][595]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2024.01.24-05.48.34:534][595]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.48.34:534][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.48.34:534][595]MapCheck: New page: Map Check
+[2024.01.24-05.48.34:534][595]LightingResults: New page: Lighting Build
+[2024.01.24-05.48.34:544][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-05.48.34:546][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.24-05.48.34:551][595]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.48.34:551][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.48.34:551][595]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-05.48.34:563][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.24-05.48.34:576][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.24-05.48.34:587][595]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.01.24-05.48.34:587][595]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-05.48.34:587][595]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-05.48.34:587][595]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.24-05.48.34:588][595]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.24-05.48.34:588][595]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-05.48.34:588][595]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-05.48.34:618][595]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-05.48.34:618][595]LogWorldPartition: Display: WorldPartition initialize took 30 ms (total: 273 ms)
+[2024.01.24-05.48.34:704][595]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.24-05.48.34:716][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-05.48.34:723][595]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.24-05.48.34:723][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.222ms to complete.
+[2024.01.24-05.48.35:798][712]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-05.48.35:799][712]LogObjectTools: Deleting 1 worlds: /Game/FirstPerson/Maps/VillageLevel.VillageLevel
+[2024.01.24-05.48.35:799][712]LogObjectTools: Currently 17 active worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_31, /Engine/Transient.World_32, /Engine/Transient.World_56, /Engine/Transient.World_57, /Engine/Transient.World_58, /Engine/Transient.World_59
+[2024.01.24-05.48.35:811][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.48.36:823][712]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-05.48.36:828][712]LogWorld: UWorld::CleanupWorld for VillageLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-05.48.36:828][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-05.48.36:843][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.24-05.48.36:856][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.24-05.48.36:869][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.48.56:329][128]Cmd: DELETE
+[2024.01.24-05.48.56:329][128]Cmd: ACTOR DELETE
+[2024.01.24-05.48.56:330][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.48.56:341][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.48.56:350][128]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.48.56:999][196]Cmd: DELETE
+[2024.01.24-05.48.56:999][196]Cmd: ACTOR DELETE
+[2024.01.24-05.48.57:001][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.48.57:013][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.48.57:021][196]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.01.24-05.48.57:764][277]Cmd: DELETE
+[2024.01.24-05.48.57:764][277]Cmd: ACTOR DELETE
+[2024.01.24-05.48.57:766][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.48.57:776][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.48.57:783][277]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.48.58:688][376]Cmd: DELETE
+[2024.01.24-05.48.58:688][376]Cmd: ACTOR DELETE
+[2024.01.24-05.48.58:689][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.48.58:700][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.48.58:707][376]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.48.59:789][494]Cmd: DELETE
+[2024.01.24-05.48.59:789][494]Cmd: ACTOR DELETE
+[2024.01.24-05.48.59:790][494]LogEditorActor: Deleted Actor: TextRenderActor
+[2024.01.24-05.48.59:800][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.24-05.48.59:809][494]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.00:845][606]Cmd: DELETE
+[2024.01.24-05.49.00:845][606]Cmd: ACTOR DELETE
+[2024.01.24-05.49.00:847][606]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.00:857][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.00:865][606]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.01:585][682]Cmd: DELETE
+[2024.01.24-05.49.01:585][682]Cmd: ACTOR DELETE
+[2024.01.24-05.49.01:586][682]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.01:598][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.01:606][682]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.02:042][725]Cmd: DELETE
+[2024.01.24-05.49.02:043][725]Cmd: ACTOR DELETE
+[2024.01.24-05.49.02:044][725]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.02:054][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.02:062][725]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.02:516][770]Cmd: DELETE
+[2024.01.24-05.49.02:516][770]Cmd: ACTOR DELETE
+[2024.01.24-05.49.02:517][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.02:529][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.02:537][770]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.03:023][815]Cmd: DELETE
+[2024.01.24-05.49.03:023][815]Cmd: ACTOR DELETE
+[2024.01.24-05.49.03:025][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.03:037][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.03:044][815]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.03:753][889]Cmd: DELETE
+[2024.01.24-05.49.03:753][889]Cmd: ACTOR DELETE
+[2024.01.24-05.49.03:754][889]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.03:765][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.03:773][889]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.04:224][934]Cmd: DELETE
+[2024.01.24-05.49.04:224][934]Cmd: ACTOR DELETE
+[2024.01.24-05.49.04:225][934]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.04:238][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.04:246][934]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.01.24-05.49.04:763][984]Cmd: DELETE
+[2024.01.24-05.49.04:763][984]Cmd: ACTOR DELETE
+[2024.01.24-05.49.04:764][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.04:775][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.04:783][984]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.05:361][ 44]Cmd: DELETE
+[2024.01.24-05.49.05:361][ 44]Cmd: ACTOR DELETE
+[2024.01.24-05.49.05:362][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.05:373][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.05:380][ 44]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.06:027][110]Cmd: DELETE
+[2024.01.24-05.49.06:027][110]Cmd: ACTOR DELETE
+[2024.01.24-05.49.06:028][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.06:039][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.24-05.49.06:047][110]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.06:492][152]Cmd: DELETE
+[2024.01.24-05.49.06:492][152]Cmd: ACTOR DELETE
+[2024.01.24-05.49.06:493][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.06:504][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.06:512][152]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.07:193][220]Cmd: DELETE
+[2024.01.24-05.49.07:193][220]Cmd: ACTOR DELETE
+[2024.01.24-05.49.07:194][220]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.07:205][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.07:213][220]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.08:258][331]Cmd: DELETE
+[2024.01.24-05.49.08:258][331]Cmd: ACTOR DELETE
+[2024.01.24-05.49.08:259][331]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.08:269][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.08:276][331]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.08:879][395]Cmd: DELETE
+[2024.01.24-05.49.08:879][395]Cmd: ACTOR DELETE
+[2024.01.24-05.49.08:880][395]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.08:890][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.08:898][395]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.09:328][437]Cmd: DELETE
+[2024.01.24-05.49.09:328][437]Cmd: ACTOR DELETE
+[2024.01.24-05.49.09:329][437]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.09:342][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.09:350][437]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.09:758][476]Cmd: DELETE
+[2024.01.24-05.49.09:758][476]Cmd: ACTOR DELETE
+[2024.01.24-05.49.09:759][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.09:771][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.24-05.49.09:779][476]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.10:271][521]Cmd: DELETE
+[2024.01.24-05.49.10:271][521]Cmd: ACTOR DELETE
+[2024.01.24-05.49.10:272][521]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.10:283][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.24-05.49.10:290][521]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.10:745][565]Cmd: DELETE
+[2024.01.24-05.49.10:745][565]Cmd: ACTOR DELETE
+[2024.01.24-05.49.10:746][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.10:756][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.10:764][565]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.11:166][603]Cmd: DELETE
+[2024.01.24-05.49.11:166][603]Cmd: ACTOR DELETE
+[2024.01.24-05.49.11:167][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.11:179][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.11:187][603]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.11:629][642]Cmd: DELETE
+[2024.01.24-05.49.11:629][642]Cmd: ACTOR DELETE
+[2024.01.24-05.49.11:630][642]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.11:642][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.11:650][642]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.12:194][698]Cmd: DELETE
+[2024.01.24-05.49.12:194][698]Cmd: ACTOR DELETE
+[2024.01.24-05.49.12:195][698]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.12:207][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.01.24-05.49.12:215][698]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.13:069][789]Cmd: DELETE
+[2024.01.24-05.49.13:069][789]Cmd: ACTOR DELETE
+[2024.01.24-05.49.13:069][789]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2024.01.24-05.49.13:071][789]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.13:082][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.13:090][789]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.13:501][829]Cmd: DELETE
+[2024.01.24-05.49.13:501][829]Cmd: ACTOR DELETE
+[2024.01.24-05.49.13:503][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.13:513][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.13:521][829]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.13:918][865]Cmd: DELETE
+[2024.01.24-05.49.13:919][865]Cmd: ACTOR DELETE
+[2024.01.24-05.49.13:920][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.13:931][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.24-05.49.13:938][865]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.14:380][908]Cmd: DELETE
+[2024.01.24-05.49.14:380][908]Cmd: ACTOR DELETE
+[2024.01.24-05.49.14:382][908]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.14:392][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.14:400][908]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.14:945][962]Cmd: DELETE
+[2024.01.24-05.49.14:945][962]Cmd: ACTOR DELETE
+[2024.01.24-05.49.14:946][962]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.14:957][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.01.24-05.49.14:965][962]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.15:386][  1]Cmd: DELETE
+[2024.01.24-05.49.15:386][  1]Cmd: ACTOR DELETE
+[2024.01.24-05.49.15:388][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.15:398][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.24-05.49.15:405][  1]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.15:801][ 39]Cmd: DELETE
+[2024.01.24-05.49.15:801][ 39]Cmd: ACTOR DELETE
+[2024.01.24-05.49.15:802][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.15:813][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.15:821][ 39]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.16:780][145]Cmd: DELETE
+[2024.01.24-05.49.16:780][145]Cmd: ACTOR DELETE
+[2024.01.24-05.49.16:781][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.16:791][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.16:799][145]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.17:454][212]Cmd: DELETE
+[2024.01.24-05.49.17:454][212]Cmd: ACTOR DELETE
+[2024.01.24-05.49.17:455][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.17:467][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.17:475][212]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.17:933][257]Cmd: DELETE
+[2024.01.24-05.49.17:933][257]Cmd: ACTOR DELETE
+[2024.01.24-05.49.17:934][257]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.17:945][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.17:953][257]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.18:353][294]Cmd: DELETE
+[2024.01.24-05.49.18:353][294]Cmd: ACTOR DELETE
+[2024.01.24-05.49.18:354][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.18:365][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.18:373][294]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.18:980][357]Cmd: DELETE
+[2024.01.24-05.49.18:980][357]Cmd: ACTOR DELETE
+[2024.01.24-05.49.18:981][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.18:993][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.19:001][357]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.19:727][434]Cmd: DELETE
+[2024.01.24-05.49.19:727][434]Cmd: ACTOR DELETE
+[2024.01.24-05.49.19:728][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.19:739][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.24-05.49.19:747][434]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.20:255][485]Cmd: DELETE
+[2024.01.24-05.49.20:255][485]Cmd: ACTOR DELETE
+[2024.01.24-05.49.20:257][485]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.20:269][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.20:277][485]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.20:693][527]Cmd: DELETE
+[2024.01.24-05.49.20:693][527]Cmd: ACTOR DELETE
+[2024.01.24-05.49.20:694][527]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.20:707][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.20:714][527]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.21:214][573]Cmd: DELETE
+[2024.01.24-05.49.21:214][573]Cmd: ACTOR DELETE
+[2024.01.24-05.49.21:215][573]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.21:227][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.21:235][573]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.21:861][640]Cmd: DELETE
+[2024.01.24-05.49.21:861][640]Cmd: ACTOR DELETE
+[2024.01.24-05.49.21:863][640]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.21:874][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.21:882][640]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.22:494][703]Cmd: DELETE
+[2024.01.24-05.49.22:494][703]Cmd: ACTOR DELETE
+[2024.01.24-05.49.22:495][703]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.22:506][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.24-05.49.22:514][703]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.23:135][770]Cmd: DELETE
+[2024.01.24-05.49.23:135][770]Cmd: ACTOR DELETE
+[2024.01.24-05.49.23:137][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.23:149][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.23:157][770]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.01.24-05.49.23:842][843]Cmd: DELETE
+[2024.01.24-05.49.23:842][843]Cmd: ACTOR DELETE
+[2024.01.24-05.49.23:843][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.23:854][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.49.23:862][843]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.24:819][946]Cmd: DELETE
+[2024.01.24-05.49.24:819][946]Cmd: ACTOR DELETE
+[2024.01.24-05.49.24:820][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-05.49.24:831][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.49.24:839][946]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.31:059][653]Cmd: DELETE
+[2024.01.24-05.49.31:059][653]Cmd: ACTOR DELETE
+[2024.01.24-05.49.31:060][653]LogEditorActor: Deleted Actor: BP_Target_Bomb_C
+[2024.01.24-05.49.31:071][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.24-05.49.31:078][653]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.32:053][764]Cmd: DELETE
+[2024.01.24-05.49.32:053][764]Cmd: ACTOR DELETE
+[2024.01.24-05.49.32:054][764]LogEditorActor: Deleted Actor: BP_Target_C
+[2024.01.24-05.49.32:066][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.24-05.49.32:072][764]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.01.24-05.49.33:247][899]Cmd: DELETE
+[2024.01.24-05.49.33:247][899]Cmd: ACTOR DELETE
+[2024.01.24-05.49.33:248][899]LogEditorActor: Deleted Actor: BP_Target_C
+[2024.01.24-05.49.33:260][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.24-05.49.33:266][899]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.33:998][978]Cmd: DELETE
+[2024.01.24-05.49.33:998][978]Cmd: ACTOR DELETE
+[2024.01.24-05.49.33:999][978]LogEditorActor: Deleted Actor: BP_Target_C
+[2024.01.24-05.49.34:010][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.24-05.49.34:017][978]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-05.49.47:916][599]Cmd: DELETE
+[2024.01.24-05.49.47:916][599]Cmd: ACTOR DELETE
+[2024.01.24-05.49.48:605][680]Cmd: DELETE
+[2024.01.24-05.49.48:605][680]Cmd: ACTOR DELETE
+[2024.01.24-05.49.49:111][740]Cmd: DELETE
+[2024.01.24-05.49.49:111][740]Cmd: ACTOR DELETE
+[2024.01.24-05.49.49:586][796]Cmd: DELETE
+[2024.01.24-05.49.49:586][796]Cmd: ACTOR DELETE
+[2024.01.24-05.49.50:853][948]Cmd: DELETE
+[2024.01.24-05.49.50:853][948]Cmd: ACTOR DELETE
+[2024.01.24-05.49.51:527][ 28]Cmd: DELETE
+[2024.01.24-05.49.51:527][ 28]Cmd: ACTOR DELETE
+[2024.01.24-05.49.54:057][330]Cmd: DELETE
+[2024.01.24-05.49.54:057][330]Cmd: ACTOR DELETE
+[2024.01.24-05.50.16:045][958]Cmd: DELETE
+[2024.01.24-05.50.16:045][958]Cmd: ACTOR DELETE
+[2024.01.24-05.50.16:047][958]LogEditorActor: Deleted Actor: PostProcessVolume
+[2024.01.24-05.50.16:068][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.24-05.50.16:077][958]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: ================================================
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Total job queries 339, among them cache hits 259 (76.40%)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Tracking 80 distinct input hashes that result in 43 distinct outputs (53.75%)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: RAM used: 1.90 MiB of 3.20 GiB budget. Usage: 0.06%
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Shaders Compiled: 48
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Average time worker was idle: 365.08 s
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 0.68 s
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 1.23 s
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Job life time (pending + execution): average 0.67 s, max 1.29
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Shader code size: average 44.039 KiB, min 31.004 KiB, max 82.359 KiB
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.83 s
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Jobs were issued in 48 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Average processing rate: 12.54 jobs/sec
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Total thread time: 10.942 s
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Total thread preprocess time: 1.756 s
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Percentage time preprocessing: 16.05%
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Effective parallelization: 2.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.31 sec, max 0.33 sec, min 0.30 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.31 sec, max 0.38 sec, min 0.24 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.27 sec, max 0.36 sec, min 0.18 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.27 sec, max 0.32 sec, min 0.21 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.95% of total time (compiled   10 times, average 0.24 sec, max 0.31 sec, min 0.13 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.35% of total time (compiled   10 times, average 0.20 sec, max 0.25 sec, min 0.11 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.75% of total time (compiled    2 times, average 0.31 sec, max 0.33 sec, min 0.30 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.72% of total time (compiled    2 times, average 0.31 sec, max 0.38 sec, min 0.24 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.50% of total time (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.01.24-05.50.35:304][189]LogShaderCompilers: Display: ================================================
+[2024.01.24-05.51.02:852][354]Cmd: DELETE
+[2024.01.24-05.51.02:852][354]Cmd: ACTOR DELETE
+[2024.01.24-05.51.10:920][314]Cmd: DELETE
+[2024.01.24-05.51.10:920][314]Cmd: ACTOR DELETE
+[2024.01.24-05.51.10:921][314]LogEditorActor: Deleted Actor: PlayerStart
+[2024.01.24-05.51.10:942][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.51.10:955][314]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.01.24-05.51.15:386][844]Cmd: DELETE
+[2024.01.24-05.51.15:386][844]Cmd: ACTOR DELETE
+[2024.01.24-05.51.15:386][844]LogEditorActor: Cannot delete actor WorldDataLayers /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers: Actor is not user managed
+[2024.01.24-05.51.15:398][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.51.15:404][844]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2024.01.24-05.51.18:086][163]Cmd: DELETE
+[2024.01.24-05.51.18:086][163]Cmd: ACTOR DELETE
+[2024.01.24-05.51.18:086][163]LogEditorActor: Cannot delete actor WorldDataLayers /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers: Actor is not user managed
+[2024.01.24-05.51.18:098][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.51.18:103][163]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2024.01.24-05.51.18:907][258]Cmd: DELETE
+[2024.01.24-05.51.18:907][258]Cmd: ACTOR DELETE
+[2024.01.24-05.51.18:907][258]LogEditorActor: Cannot delete actor WorldPartitionMiniMap /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldPartitionMiniMap_0: Actor is not user managed
+[2024.01.24-05.51.18:918][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-05.51.18:923][258]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2024.01.24-05.51.20:258][417]Cmd: DELETE
+[2024.01.24-05.51.20:258][417]Cmd: ACTOR DELETE
+[2024.01.24-05.51.20:258][417]LogEditorActor: Cannot delete actor WorldDataLayers /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.WorldDataLayers: Actor is not user managed
+[2024.01.24-05.51.20:269][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.51.20:274][417]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2024.01.24-05.51.27:426][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.51.27:437][251]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-05.51.27:504][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.24-05.51.27:518][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.24-05.51.27:531][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-05.51.27:545][251]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2024.01.24-05.51.27:546][251]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/1ZJ54FMA0DAL3I2Q8RFAIB24AC7B86413A9DFF28FD37AF4AC45CF5.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2024.01.24-05.51.27:554][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 17.6 sec)
+[2024.01.24-05.51.27:556][251]AssetCheck: New page: Asset Save: StaticMeshActor_0
+[2024.01.24-05.51.27:556][251]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
