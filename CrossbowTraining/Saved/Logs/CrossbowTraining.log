@@ -6781,3 +6781,502 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get FirstPersonMesh
 [2024.01.24-03.02.30:298][913]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_ShooterGame.GM_ShooterGame
 [2024.01.24-03.02.33:724][324]LogSlate: Window 'Message Log' being destroyed
 [2024.01.24-03.02.33:730][324]LogSlate: Window 'Message Log' being destroyed
+[2024.01.24-03.04.03:813][ 69]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Target/T_Target_BaseColor.T_Target_BaseColor
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: ================================================
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: Total job queries 29, among them cache hits 9 (31.03%)
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 16 distinct outputs (80.00%)
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: RAM used: 432.74 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.24-03.04.03:997][ 69]LogShaderCompilers: Display: ================================================
+[2024.01.24-03.04.03:999][ 69]LogViewport: Scene viewport resized to 1905x1250, mode Windowed.
+[2024.01.24-03.04.37:729][591]LogEditorFactories: Display: Exporting Texture as PNG Layer 0/1 Block 0/1
+[2024.01.24-03.05.36:657][976]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Target/SM_Target.SM_Target
+[2024.01.24-03.05.36:671][976]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-03.05.36:671][976]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-03.05.37:237][976]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.01.24-03.05.48:043][245]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-03.05.48:043][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-03.08.53:429][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.24-03.08.53:436][102]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/1F/0C6RWBW29XHVOC25YI7DXA_Auto8
+[2024.01.24-03.08.53:436][102]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/0C6RWBW29XHVOC25YI7DXA_Auto8AE4628BA4D603ADCC94DC99FD02CB767.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/1F/0C6RWBW29XHVOC25YI7DXA_Auto8.uasset'
+[2024.01.24-03.08.53:437][102]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VW/CD3B6QZ56ANRUPAG79D6EV_Auto8
+[2024.01.24-03.08.53:437][102]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/CD3B6QZ56ANRUPAG79D6EV_Auto814FB449B47401862760592AFA4226E0C.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VW/CD3B6QZ56ANRUPAG79D6EV_Auto8.uasset'
+[2024.01.24-03.08.53:439][102]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NW/7CIMW7MPTKAQ7R34AX613I_Auto8
+[2024.01.24-03.08.53:439][102]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/7CIMW7MPTKAQ7R34AX613I_Auto876239D5647BA0439463BBD9DE5BBC8E8.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NW/7CIMW7MPTKAQ7R34AX613I_Auto8.uasset'
+[2024.01.24-03.08.53:439][102]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2024.01.24-03.08.53:439][102]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2024.01.24-03.12.46:475][847]LogInterchangeEngine: [Pending] Importing
+[2024.01.24-03.12.46:475][847]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/bhawl/Downloads/T_Target_Bomb.PNG]
+[2024.01.24-03.12.46:489][848]LogInterchangeEngine: [Pending] Importing
+[2024.01.24-03.12.46:795][848]LogTexture: Display: Building textures: /Game/Assets/Target/T_Target_Bomb.T_Target_Bomb (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.01.24-03.12.46:805][848]LogInterchangeEngine: [Success] Import Done
+[2024.01.24-03.12.46:834][849]LogInterchangeEngine: [Success] Import Done
+[2024.01.24-03.12.54:012][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.12.54:037][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Target/T_Target_Bomb" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/T_Target_Bomb.uasset" SILENT=true
+[2024.01.24-03.12.54:047][336]LogSavePackage: Moving output files for package: /Game/Assets/Target/T_Target_Bomb
+[2024.01.24-03.12.54:048][336]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T_Target_BombB0EA6D1E40543D913D62A3AA913BD1D4.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/T_Target_Bomb.uasset'
+[2024.01.24-03.12.54:054][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 8.95 sec)
+[2024.01.24-03.12.54:055][336]AssetCheck: New page: Asset Save: T_Target_Bomb
+[2024.01.24-03.12.54:055][336]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Target/T_Target_Bomb.T_Target_Bomb
+[2024.01.24-03.13.08:648][908]LogContentBrowser: Deferred new asset file creation: M_Target1
+[2024.01.24-03.13.08:654][908]LogContentBrowser: Creating deferred item: M_Target1
+[2024.01.24-03.13.08:673][909]LogContentBrowser: Renaming the item being created (Deferred Item: M_Target1).
+[2024.01.24-03.13.14:570][608]LogContentBrowser: Attempting asset rename: M_Target1 -> M_Target_Bomb
+[2024.01.24-03.13.14:573][608]LogContentBrowser: End creating deferred item M_Target1
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: ================================================
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: Total job queries 31, among them cache hits 11 (35.48%)
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 16 distinct outputs (80.00%)
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: RAM used: 432.74 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.24-03.13.14:576][608]LogShaderCompilers: Display: ================================================
+[2024.01.24-03.13.18:212][  6]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Target/M_Target_Bomb.M_Target_Bomb
+[2024.01.24-03.13.18:233][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-03.13.18:234][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-03.13.18:329][  6]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.13.18:329][  6]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.13.18:329][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.13.18:329][  6]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.13.18:332][  6]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2024.01.24-03.13.18:395][  8]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.13.18:395][  8]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.13.18:395][  8]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.13.18:395][  8]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.13.18:395][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.13.18:395][  8]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.13.34:980][963]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.13.34:980][963]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.13.34:980][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.13.34:980][963]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.13.35:037][965]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.13.35:037][965]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.13.35:037][965]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.13.35:037][965]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.13.35:037][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.13.35:037][965]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.13.45:762][238]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.13.45:762][238]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.13.45:762][238]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.13.45:762][238]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.13.45:808][240]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.13.45:808][240]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.13.45:808][240]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.13.45:808][240]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.13.45:808][240]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.13.45:808][240]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.14.09:089][971]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.14.09:089][971]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.09:089][971]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.09:089][971]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.14.09:144][973]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.14.09:144][973]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.14.09:144][973]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.14.09:144][973]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.09:144][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.09:144][973]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.14.13:527][489]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.14.13:527][489]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.13:527][489]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.13:527][489]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.14.13:830][524]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.14.13:830][524]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.14.13:830][524]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.14.13:830][524]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.13:830][524]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.13:830][524]MaterialEditorStats: Shader Count: 2
+[2024.01.24-03.14.23:168][638]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.14.23:168][638]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.23:168][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.23:168][638]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.14.23:338][655]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.24-03.14.23:338][655]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.23:338][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.23:338][655]MaterialEditorStats: Shader Count: 1
+[2024.01.24-03.14.23:439][667]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.14.23:439][667]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.14.23:439][667]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.14.23:439][667]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.23:439][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.23:439][667]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.14.28:201][233]LogMaterialEditor: Applying material M_Target_Bomb
+[2024.01.24-03.14.28:251][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.01.24-03.14.28:639][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.24-03.14.28:649][233]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.24-03.14.28:649][233]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.28:649][233]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.28:649][233]MaterialEditorStats: Shader Count: 2
+[2024.01.24-03.14.28:658][234]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.14.28:658][234]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.14.28:658][234]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.14.28:658][234]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.28:658][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.28:658][234]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.14.29:355][316]LogMaterialEditor: Saving and Compiling material M_Target_Bomb
+[2024.01.24-03.14.29:357][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.14.30:315][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Target/M_Target_Bomb" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/M_Target_Bomb.uasset" SILENT=true
+[2024.01.24-03.14.30:317][316]LogSavePackage: Moving output files for package: /Game/Assets/Target/M_Target_Bomb
+[2024.01.24-03.14.30:317][316]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/M_Target_BombE78BAF974C86F1DE66D1F9841C0E9D11.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/M_Target_Bomb.uasset'
+[2024.01.24-03.14.30:323][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 966 ms (total: 9.91 sec)
+[2024.01.24-03.14.30:323][316]AssetCheck: New page: Asset Save: M_Target_Bomb
+[2024.01.24-03.14.30:323][316]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Target/M_Target_Bomb.M_Target_Bomb
+[2024.01.24-03.14.30:324][316]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.14.30:325][316]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.14.30:325][316]MaterialEditorStats: MaxSampler: 260 instructions
+[2024.01.24-03.14.30:325][316]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.24-03.14.30:325][316]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.14.30:325][316]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.14.30:325][316]MaterialEditorStats: Shader Count: 30
+[2024.01.24-03.14.42:046][584]LogContentBrowser: Deferred new asset file creation: SM_Target1
+[2024.01.24-03.14.42:053][584]LogContentBrowser: Creating deferred item: SM_Target1
+[2024.01.24-03.14.42:064][585]LogContentBrowser: Renaming the item being created (Deferred Item: SM_Target1).
+[2024.01.24-03.14.46:885][159]LogContentBrowser: Attempting asset rename: SM_Target1 -> SM_Target_Bomb
+[2024.01.24-03.14.46:889][159]LogContentBrowser: End creating deferred item SM_Target1
+[2024.01.24-03.14.49:329][414]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.14.49:334][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-03.14.49:334][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-03.14.49:942][414]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.01.24-03.15.05:658][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.15.05:683][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Target/SM_Target_Bomb" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/SM_Target_Bomb.uasset" SILENT=true
+[2024.01.24-03.15.05:687][264]LogSavePackage: Moving output files for package: /Game/Assets/Target/SM_Target_Bomb
+[2024.01.24-03.15.05:687][264]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/SM_Target_Bomb776016024557710BAC60F1B230999EA3.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/SM_Target_Bomb.uasset'
+[2024.01.24-03.15.05:693][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 9.95 sec)
+[2024.01.24-03.15.05:693][264]AssetCheck: New page: Asset Save: SM_Target_Bomb
+[2024.01.24-03.15.05:693][264]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.15.22:292][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-03.15.24:611][134]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-03.15.28:316][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.15.28:323][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.15.28:324][518]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.01.24-03.15.29:097][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.15.29:097][595]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.15.29:099][595]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0000AA206AD201_1881570575
+[2024.01.24-03.15.43:324][253]Cmd: DELETE
+[2024.01.24-03.15.43:331][253]Cmd: ACTOR DELETE
+[2024.01.24-03.15.43:333][253]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.24-03.15.43:345][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.01.24-03.15.43:350][253]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.01.24-03.15.45:309][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.24-03.15.47:189][478]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-03.15.52:718][128]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-03.15.52:718][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-03.15.53:333][193]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-03.15.53:333][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-03.15.56:252][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.24-03.15.57:195][517]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-03.15.57:217][517]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0000AA206AD201_1881570575 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/1J/MVOWFAURR52MQ7W41XMX9G.PackageMetaData in its package
+[2024.01.24-03.15.57:220][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.01.24-03.15.57:235][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-03.15.57:246][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.24-03.15.57:270][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.24-03.15.58:788][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.24-03.16.00:776][695]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-03.16.01:578][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.24-03.16.02:349][772]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-03.16.02:367][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.24-03.16.02:381][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-03.16.02:393][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.24-03.16.03:701][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.24-03.16.04:558][924]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.24-03.16.04:575][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.01.24-03.16.04:590][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-03.16.04:601][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.24-03.18.46:261][387]LogInterchangeEngine: [Pending] Importing
+[2024.01.24-03.18.46:261][387]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/bhawl/Downloads/T_Target_Bomb.PNG]
+[2024.01.24-03.18.46:274][388]LogInterchangeEngine: [Pending] Importing
+[2024.01.24-03.18.46:593][388]LogTexture: Display: Building textures: /Game/Assets/Target/T_Target_Bomb.T_Target_Bomb (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 169.145823 MB), EncodeSpeed: Fast
+[2024.01.24-03.18.46:603][388]LogInterchangeEngine: [Success] Import Done
+[2024.01.24-03.18.46:628][389]LogInterchangeEngine: [Success] Import Done
+[2024.01.24-03.18.51:708][503]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.18.51:733][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Target/T_Target_Bomb" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/T_Target_Bomb.uasset" SILENT=true
+[2024.01.24-03.18.51:744][503]LogSavePackage: Moving output files for package: /Game/Assets/Target/T_Target_Bomb
+[2024.01.24-03.18.51:744][503]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T_Target_Bomb6D2045F34DE3EA876936FD9FF6C41B38.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/T_Target_Bomb.uasset'
+[2024.01.24-03.18.51:752][503]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 9.99 sec)
+[2024.01.24-03.18.51:753][503]AssetCheck: New page: Asset Save: T_Target_Bomb
+[2024.01.24-03.18.51:753][503]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Target/T_Target_Bomb.T_Target_Bomb
+[2024.01.24-03.18.55:527][928]LogContentBrowser: Deferred new asset file creation: M_Target1
+[2024.01.24-03.18.55:535][928]LogContentBrowser: Creating deferred item: M_Target1
+[2024.01.24-03.18.55:546][929]LogContentBrowser: Renaming the item being created (Deferred Item: M_Target1).
+[2024.01.24-03.19.01:097][595]LogContentBrowser: Attempting asset rename: M_Target1 -> M_Target_Bomb
+[2024.01.24-03.19.01:099][595]LogContentBrowser: End creating deferred item M_Target1
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: ================================================
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Total job queries 135, among them cache hits 71 (52.59%)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 32 distinct outputs (50.00%)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: RAM used: 1.46 MiB of 3.20 GiB budget. Usage: 0.04%
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Shaders Compiled: 44
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100%)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Average time worker was idle: 19.84 s
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 0.68 s
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 1.23 s
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 1.29
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Shader code size: average 41.188 KiB, min 31.004 KiB, max 62.59 KiB
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.32 s
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Average processing rate: 13.27 jobs/sec
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Total thread time: 9.946 s
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Total thread preprocess time: 1.634 s
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Percentage time preprocessing: 16.42%
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Effective parallelization: 3.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.31 sec, max 0.33 sec, min 0.30 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.31 sec, max 0.38 sec, min 0.24 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.27 sec, max 0.36 sec, min 0.18 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.27 sec, max 0.32 sec, min 0.21 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.89% of total time (compiled    8 times, average 0.22 sec, max 0.28 sec, min 0.13 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.44% of total time (compiled    8 times, average 0.20 sec, max 0.25 sec, min 0.11 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.33% of total time (compiled    2 times, average 0.31 sec, max 0.33 sec, min 0.30 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.29% of total time (compiled    2 times, average 0.31 sec, max 0.38 sec, min 0.24 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.05% of total time (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.01.24-03.19.01:103][595]LogShaderCompilers: Display: ================================================
+[2024.01.24-03.19.03:481][840]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Target/M_Target_Bomb.M_Target_Bomb
+[2024.01.24-03.19.03:484][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-03.19.03:484][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-03.19.03:569][840]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.19.03:569][840]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.03:569][840]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.03:569][840]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.19.03:572][840]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2024.01.24-03.19.03:627][842]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.19.03:627][842]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.19.03:627][842]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.19.03:627][842]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.03:627][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.03:627][842]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.19.07:774][319]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.19.07:774][319]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.07:774][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.07:774][319]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.19.07:831][321]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.19.07:831][321]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.19.07:831][321]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.19.07:831][321]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.07:831][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.07:831][321]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.19.10:521][634]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.19.10:521][634]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.10:521][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.10:521][634]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.19.10:541][636]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.19.10:541][636]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.19.10:541][636]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.19.10:541][636]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.10:541][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.10:541][636]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.19.18:233][553]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.19.18:233][553]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.18:233][553]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.18:233][553]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.19.18:280][555]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.19.18:280][555]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.19.18:280][555]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.19.18:280][555]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.18:280][555]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.18:280][555]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.19.21:336][917]LogMaterialEditor: Applying material M_Target_Bomb
+[2024.01.24-03.19.21:387][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.24-03.19.21:528][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.24-03.19.21:544][917]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.24-03.19.21:544][917]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.21:544][917]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.21:544][917]MaterialEditorStats: Shader Count: 2
+[2024.01.24-03.19.21:551][918]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.19.21:551][918]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.19.21:551][918]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.19.21:551][918]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.21:551][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.21:551][918]MaterialEditorStats: Shader Count: 6
+[2024.01.24-03.19.22:044][975]LogMaterialEditor: Saving and Compiling material M_Target_Bomb
+[2024.01.24-03.19.22:046][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.19.22:091][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Target/M_Target_Bomb" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/M_Target_Bomb.uasset" SILENT=true
+[2024.01.24-03.19.22:094][975]LogSavePackage: Moving output files for package: /Game/Assets/Target/M_Target_Bomb
+[2024.01.24-03.19.22:094][975]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/M_Target_BombF4B7BEB44367332BF026AA855CB42C00.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/M_Target_Bomb.uasset'
+[2024.01.24-03.19.22:100][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 10.0 sec)
+[2024.01.24-03.19.22:101][975]AssetCheck: New page: Asset Save: M_Target_Bomb
+[2024.01.24-03.19.22:101][975]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Target/M_Target_Bomb.M_Target_Bomb
+[2024.01.24-03.19.22:102][975]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.19.22:102][975]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.19.22:102][975]MaterialEditorStats: MaxSampler: 260 instructions
+[2024.01.24-03.19.22:102][975]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.24-03.19.22:102][975]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.19.22:102][975]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.19.22:102][975]MaterialEditorStats: Shader Count: 30
+[2024.01.24-03.19.26:781][494]LogContentBrowser: Deferred new asset file creation: SM_Target1
+[2024.01.24-03.19.26:788][494]LogContentBrowser: Creating deferred item: SM_Target1
+[2024.01.24-03.19.26:800][495]LogContentBrowser: Renaming the item being created (Deferred Item: SM_Target1).
+[2024.01.24-03.19.30:093][890]LogContentBrowser: Attempting asset rename: SM_Target1 -> SM_TargetBomb
+[2024.01.24-03.19.30:096][890]LogContentBrowser: End creating deferred item SM_Target1
+[2024.01.24-03.19.35:531][521]LogContentBrowser: Attempting asset rename: SM_TargetBomb -> SM_Target_Bomb
+[2024.01.24-03.19.35:551][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.19.35:602][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Target/SM_Target_Bomb" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/SM_Target_Bomb.uasset" SILENT=true
+[2024.01.24-03.19.35:606][521]LogSavePackage: Moving output files for package: /Game/Assets/Target/SM_Target_Bomb
+[2024.01.24-03.19.35:606][521]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/SM_Target_Bomb9C8A447540D423B6700AF89E508AEFDD.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/SM_Target_Bomb.uasset'
+[2024.01.24-03.19.35:613][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 10.1 sec)
+[2024.01.24-03.19.35:627][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.24-03.19.35:640][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-03.19.35:651][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.24-03.19.35:654][521]AssetCheck: New page: Asset Save: SM_Target_Bomb
+[2024.01.24-03.19.35:654][521]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.19.46:619][807]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.19.46:623][807]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-03.19.46:623][807]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-03.19.47:062][807]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.01.24-03.19.51:606][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.19.51:634][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Target/SM_Target_Bomb" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/SM_Target_Bomb.uasset" SILENT=true
+[2024.01.24-03.19.51:638][326]LogSavePackage: Moving output files for package: /Game/Assets/Target/SM_Target_Bomb
+[2024.01.24-03.19.51:638][326]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/SM_Target_Bomb402C44C544C5ED47BB18639A56859E9B.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/SM_Target_Bomb.uasset'
+[2024.01.24-03.19.51:645][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 10.1 sec)
+[2024.01.24-03.19.51:646][326]AssetCheck: New page: Asset Save: SM_Target_Bomb
+[2024.01.24-03.19.51:646][326]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.19.54:751][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.19.54:751][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.19.54:752][677]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.01.24-03.19.55:300][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.19.55:300][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb
+[2024.01.24-03.19.55:301][737]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Target/SM_Target_Bomb.SM_Target_Bomb as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_9C6B0000AA206BD201_1074030752
+[2024.01.24-03.20.04:333][757]LogEditorViewport: Clicking Background
+[2024.01.24-03.20.19:494][518]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Target/T_Target_Bomb.T_Target_Bomb
+[2024.01.24-03.20.19:564][518]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.20.19:564][518]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.20.19:564][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.20.19:564][518]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.20.19:567][518]LogViewport: Scene viewport resized to 1905x1250, mode Windowed.
+[2024.01.24-03.20.19:668][519]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.20.19:668][519]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.20.19:668][519]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.20.19:668][519]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.20.19:668][519]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.20.19:668][519]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.20.33:688][712]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-03.20.33:697][712]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.20.33:697][712]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.20.33:697][712]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.20.33:697][712]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.20.33:757][715]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.20.33:757][715]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.20.33:757][715]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.20.33:757][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.20.33:757][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.20.33:757][715]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.20.41:593][880]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-03.20.41:603][880]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.20.41:604][880]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.20.41:604][880]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.20.41:604][880]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.20.41:649][883]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.20.41:649][883]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.20.41:649][883]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.20.41:649][883]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.20.41:649][883]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.20.41:649][883]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.20.45:738][ 61]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-03.20.45:747][ 61]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.20.45:747][ 61]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.20.45:747][ 61]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.20.45:747][ 61]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.20.45:778][ 64]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.20.45:778][ 64]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.20.45:778][ 64]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.20.45:778][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.20.45:778][ 64]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.20.45:778][ 64]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.20.56:483][289]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-03.21.07:555][209]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-03.21.07:565][209]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.21.07:565][209]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.21.07:565][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.21.07:565][209]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.21.07:614][212]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.21.07:614][212]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.21.07:614][212]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.21.07:614][212]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.21.07:614][212]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.21.07:614][212]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.21.12:076][444]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-03.21.12:086][444]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.24-03.21.12:086][444]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.21.12:086][444]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.21.12:086][444]MaterialEditorStats: Shader Count: 0
+[2024.01.24-03.21.12:116][447]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.21.12:116][447]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.21.12:116][447]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.24-03.21.12:116][447]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.21.12:116][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.21.12:116][447]MaterialEditorStats: Shader Count: 4
+[2024.01.24-03.21.13:264][583]LogDerivedDataCache: C:/Users/bhawl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.062 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 8934 files in 11256 folders with total size 682 MiB.
+[2024.01.24-03.21.15:536][855]LogMaterialEditor: Applying material M_Target_Bomb
+[2024.01.24-03.21.15:590][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.24-03.21.15:732][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.24-03.21.16:307][920]LogMaterialEditor: Saving and Compiling material M_Target_Bomb
+[2024.01.24-03.21.16:309][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.21.16:349][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Target/M_Target_Bomb" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/M_Target_Bomb.uasset" SILENT=true
+[2024.01.24-03.21.16:351][920]LogSavePackage: Moving output files for package: /Game/Assets/Target/M_Target_Bomb
+[2024.01.24-03.21.16:352][920]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/M_Target_Bomb08B9491F4A7722DF583F09A6E8781A4F.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/Target/M_Target_Bomb.uasset'
+[2024.01.24-03.21.16:358][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 10.2 sec)
+[2024.01.24-03.21.16:359][920]AssetCheck: New page: Asset Save: M_Target_Bomb
+[2024.01.24-03.21.16:359][920]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Target/M_Target_Bomb.M_Target_Bomb
+[2024.01.24-03.21.16:359][920]MaterialEditorStats: Base pass shader: 211 instructions
+[2024.01.24-03.21.16:359][920]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.24-03.21.16:359][920]MaterialEditorStats: MaxSampler: 260 instructions
+[2024.01.24-03.21.16:359][920]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.24-03.21.16:360][920]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.24-03.21.16:360][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.24-03.21.16:360][920]MaterialEditorStats: Shader Count: 30
+[2024.01.24-03.21.24:963][897]LogEditorViewport: Clicking Background
+[2024.01.24-03.21.30:736][557]LogContentBrowser: Deferred new asset file creation: BP_Target1
+[2024.01.24-03.21.30:742][557]LogContentBrowser: Creating deferred item: BP_Target1
+[2024.01.24-03.21.30:752][558]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Target1).
+[2024.01.24-03.21.31:424][639]LogContentBrowser: Attempting asset rename: BP_Target1 -> BP_Target1
+[2024.01.24-03.21.31:441][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.24-03.21.31:448][639]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/Blueprints/BP_Target1 does not exist, will not scan.
+[2024.01.24-03.21.31:455][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.21.31:476][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-03.21.31:511][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Target1" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_Target1.uasset" SILENT=true
+[2024.01.24-03.21.31:523][639]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target1
+[2024.01.24-03.21.31:523][639]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_Target12CC02B6043A2697AF001DA99FF2B25BB.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_Target1.uasset'
+[2024.01.24-03.21.31:531][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 10.2 sec)
+[2024.01.24-03.21.31:532][639]LogContentBrowser: End creating deferred item BP_Target1
+[2024.01.24-03.21.31:533][639]AssetCheck: New page: Asset Save: BP_Target1
+[2024.01.24-03.21.31:533][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target1.BP_Target1
+[2024.01.24-03.21.36:438][199]LogContentBrowser: Attempting asset rename: BP_Target1 -> BP_Target_Bomb
+[2024.01.24-03.21.36:457][199]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Target_Bomb.SKEL_BP_Target_Bomb_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Target1.PackageMetaData'
+[2024.01.24-03.21.36:457][199]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Target_Bomb.BP_Target_Bomb_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Target1.PackageMetaData'
+[2024.01.24-03.21.36:457][199]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Target_Bomb.SKEL_BP_Target_Bomb_C:BndEvt__BP_Target_SM_Target_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Target1.PackageMetaData'
+[2024.01.24-03.21.36:457][199]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Target_Bomb.SKEL_BP_Target_Bomb_C:BndEvt__BP_Target_Center_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Target1.PackageMetaData'
+[2024.01.24-03.21.36:457][199]LogMetaData: Removing '/Game/FirstPerson/Blueprints/BP_Target_Bomb.SKEL_BP_Target_Bomb_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_Target1.PackageMetaData'
+[2024.01.24-03.21.36:457][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.21.36:489][199]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target_Bomb
+[2024.01.24-03.21.36:489][199]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_Target_Bomb06D515954505461A954C15A67948AF11.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_Target_Bomb.uasset'
+[2024.01.24-03.21.36:497][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 10.3 sec)
+[2024.01.24-03.21.36:513][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-03.21.36:525][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-03.21.36:535][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.24-03.21.36:538][199]AssetCheck: New page: Asset Save: BP_Target_Bomb
+[2024.01.24-03.21.36:539][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target_Bomb.BP_Target_Bomb
+[2024.01.24-03.21.36:539][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-03.21.40:586][647]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Target_Bomb.BP_Target_Bomb
+[2024.01.24-03.21.40:586][647]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-03.21.40:586][647]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-03.21.55:714][158]LogSlate: Window 'Delete Component' being destroyed
+[2024.01.24-03.22.46:591][179]BlueprintLog: New page: Compile BP_Target_Bomb
+[2024.01.24-03.22.46:612][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-03.22.46:640][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-03.22.46:731][179]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target_Bomb
+[2024.01.24-03.22.46:731][179]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_Target_Bomb4AFF7D89432631F9B4D2079CF8DA5C5E.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_Target_Bomb.uasset'
+[2024.01.24-03.22.46:737][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 10.4 sec)
+[2024.01.24-03.22.46:739][179]AssetCheck: New page: Asset Save: BP_Target_Bomb
+[2024.01.24-03.22.46:739][179]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target_Bomb.BP_Target_Bomb
+[2024.01.24-03.23.14:761][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.24-03.23.14:766][638]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SW/LSGE2VQ7XEKDELH0QD69EH_Auto9
+[2024.01.24-03.23.14:766][638]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/LSGE2VQ7XEKDELH0QD69EH_Auto9B16DDCA54AA63550A80943BD8CFBB543.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SW/LSGE2VQ7XEKDELH0QD69EH_Auto9.uasset'
+[2024.01.24-03.23.14:767][638]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.020
+[2024.01.24-03.23.14:767][638]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
