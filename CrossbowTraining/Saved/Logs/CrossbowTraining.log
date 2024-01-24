@@ -6359,3 +6359,345 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-10.30.50:961][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2024.01.24-10.30.50:999][785]LogPlayLevel: Display: Destroying online subsystem :Context_55
 [2024.01.24-10.30.54:903][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-10.32.27:030][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.32.27:063][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.24-10.32.27:075][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-10.32.27:085][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.24-10.32.27:093][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 5.74 sec)
+[2024.01.24-10.33.23:215][739]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2024.01.24-10.33.23:221][739]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.01.24-10.33.23:227][739]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.01.24-10.33.23:244][740]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.01.24-10.33.34:504][ 80]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_MainMenu
+[2024.01.24-10.33.34:508][ 80]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.01.24-10.33.37:123][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.33.37:147][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/WBP_MainMenu" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.01.24-10.33.37:149][392]LogSavePackage: Moving output files for package: /Game/Assets/UI/WBP_MainMenu
+[2024.01.24-10.33.37:149][392]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_MainMenu1F2F5DFC46E156622C6017BAEB438A42.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset'
+[2024.01.24-10.33.37:165][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 5.79 sec)
+[2024.01.24-10.33.37:165][392]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.01.24-10.33.37:165][392]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-10.33.38:699][562]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-10.33.38:699][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-10.33.38:699][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-10.33.38:707][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-10.33.38:707][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-10.33.38:711][562]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.01.24-10.33.38:812][562]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.01.24-10.33.38:813][562]LogSlate: Took 0.000594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.24-10.33.44:777][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-10.33.44:783][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.33.44:817][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/WBP_MainMenu" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.01.24-10.33.44:820][270]LogSavePackage: Moving output files for package: /Game/Assets/UI/WBP_MainMenu
+[2024.01.24-10.33.44:820][270]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_MainMenuCE24E8A54732C06308CDF4A114844956.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset'
+[2024.01.24-10.33.44:826][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 5.83 sec)
+[2024.01.24-10.33.44:826][270]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.01.24-10.33.44:826][270]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-10.33.45:504][350]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.01.24-10.33.45:526][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.24-10.34.19:322][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.24-10.34.19:326][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.016
+[2024.01.24-10.34.19:326][533]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/UI/WBP_MainMenu] ([2] browsable assets)...
+[2024.01.24-10.34.19:329][533]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu]
+[2024.01.24-10.34.19:329][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI/WBP_MainMenu]
+[2024.01.24-10.34.19:331][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/UI/WBP_MainMenu_Auto2
+[2024.01.24-10.34.19:331][533]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_MainMenu_Auto2B4DE27284CE63A605ED334A0042D6E17.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Autosaves/Game/Assets/UI/WBP_MainMenu_Auto2.uasset'
+[2024.01.24-10.34.19:331][533]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.01.24-10.37.28:731][102]LogDerivedDataCache: C:/Users/bhawl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.021 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12020 files in 14392 folders with total size 841 MiB.
+[2024.01.24-10.40.53:397][977]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.01.24-10.40.53:420][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.24-10.40.53:480][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.40.53:510][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/WBP_MainMenu" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.01.24-10.40.53:513][977]LogSavePackage: Moving output files for package: /Game/Assets/UI/WBP_MainMenu
+[2024.01.24-10.40.53:513][977]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_MainMenuDC73B60B45BD6EE9F6F70DBE5D60BF11.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset'
+[2024.01.24-10.40.53:519][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 5.87 sec)
+[2024.01.24-10.40.53:525][977]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.01.24-10.40.53:525][977]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-10.41.00:425][518]LogSlate: Took 0.003919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.01.24-10.41.47:865][ 96]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.01.24-10.41.47:889][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-10.41.47:971][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.41.48:007][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/WBP_MainMenu" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.01.24-10.41.48:010][ 96]LogSavePackage: Moving output files for package: /Game/Assets/UI/WBP_MainMenu
+[2024.01.24-10.41.48:011][ 96]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_MainMenuDABF7FB64BE3FD49607C1FA80BEACC3E.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset'
+[2024.01.24-10.41.48:016][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 5.91 sec)
+[2024.01.24-10.41.48:024][ 96]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.01.24-10.41.48:024][ 96]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-10.43.18:928][774]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.01.24-10.43.18:951][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.24-10.43.19:000][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.43.19:033][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/WBP_MainMenu" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.01.24-10.43.19:037][774]LogSavePackage: Moving output files for package: /Game/Assets/UI/WBP_MainMenu
+[2024.01.24-10.43.19:037][774]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_MainMenu64D677B6468CA307FC43B6BCE43E15B9.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset'
+[2024.01.24-10.43.19:043][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 5.96 sec)
+[2024.01.24-10.43.19:048][774]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.01.24-10.43.19:048][774]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-10.43.46:325][956]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.01.24-10.43.46:332][956]LogContentBrowser: Creating deferred item: NewWorld
+[2024.01.24-10.43.46:337][957]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.01.24-10.43.53:208][782]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenuMap
+[2024.01.24-10.43.53:209][782]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-10.43.53:209][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-10.43.53:210][782]LogContentBrowser: End creating deferred item NewWorld
+[2024.01.24-10.43.54:745][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.43.54:784][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-10.43.54:791][963]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainMenuMap
+[2024.01.24-10.43.54:791][963]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/MainMenuMapCD82986F48FCE19FDFAA1C89205960E1.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/MainMenuMap.umap'
+[2024.01.24-10.43.54:791][963]LogFileHelpers: Saving map 'MainMenuMap' took 0.018
+[2024.01.24-10.43.54:798][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 6.01 sec)
+[2024.01.24-10.43.54:800][963]AssetCheck: New page: Asset Save: MainMenuMap
+[2024.01.24-10.43.54:800][963]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/MainMenuMap.MainMenuMap
+[2024.01.24-10.43.55:128][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-10.43.55:131][  1]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/MainMenuMap.MainMenuMap
+[2024.01.24-10.43.55:132][  1]Cmd: MAP LOAD FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/MainMenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.24-10.43.55:132][  1]LightingResults: New page: Lighting Build
+[2024.01.24-10.43.55:137][  1]LoadErrors: New page: Loading map: MainMenuMap.umap
+[2024.01.24-10.43.55:153][  1]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-10.43.55:153][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.43.55:155][  1]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.24-10.43.55:155][  1]MapCheck: New page: Map Check
+[2024.01.24-10.43.55:155][  1]LightingResults: New page: Lighting Build
+[2024.01.24-10.43.55:170][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-10.43.55:182][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.01.24-10.43.55:189][  1]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-10.43.55:189][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.43.55:199][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-10.43.55:208][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-10.43.55:210][  1]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuMap'.
+[2024.01.24-10.43.55:210][  1]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-10.43.55:210][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-10.43.55:211][  1]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.01.24-10.43.55:228][  1]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.24-10.43.55:239][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.24-10.43.55:242][  1]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.24-10.43.55:242][  1]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2024.01.24-10.44.36:538][176]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.24-10.44.36:545][176]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.24-10.44.36:550][176]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.24-10.44.36:552][176]LogAutomationController: Ignoring very large delta of 3.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.24-10.44.36:557][177]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.24-10.44.43:978][ 64]LogContentBrowser: Attempting asset rename: NewBlueprint -> GM_MainMenu
+[2024.01.24-10.44.43:983][ 64]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.24-10.44.45:350][227]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/UI/GM_MainMenu.GM_MainMenu
+[2024.01.24-10.44.45:350][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-10.44.45:351][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-10.44.45:476][227]LogViewport: Scene viewport resized to 1669x973, mode Windowed.
+[2024.01.24-10.44.47:012][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.01.24-10.44.47:017][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.44.47:037][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/GM_MainMenu" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/GM_MainMenu.uasset" SILENT=true
+[2024.01.24-10.44.47:039][407]LogSavePackage: Moving output files for package: /Game/Assets/UI/GM_MainMenu
+[2024.01.24-10.44.47:039][407]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/GM_MainMenu42DE487B40466DA1FCC68891598B2511.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/GM_MainMenu.uasset'
+[2024.01.24-10.44.47:047][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 6.04 sec)
+[2024.01.24-10.44.47:048][407]AssetCheck: New page: Asset Save: GM_MainMenu
+[2024.01.24-10.44.47:048][407]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assets/UI/GM_MainMenu.GM_MainMenu
+[2024.01.24-10.45.03:222][435]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.24-10.45.03:227][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.24-10.45.03:227][435]PIE: New page: PIE session: MainMenuMap (Jan 23, 2024, 10:45:03 PM)
+[2024.01.24-10.45.03:250][435]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_MainMenuMap
+[2024.01.24-10.45.03:251][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000654s)
+[2024.01.24-10.45.03:251][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/MainMenuMap.MainMenuMap to /Game/FirstPerson/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.000690s)
+[2024.01.24-10.45.03:259][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-10.45.03:261][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-10.45.03:261][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-10.45.03:262][435]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.01.24-10.45.03:262][435]LogPlayLevel: PIE: World Init took: (0.000694s)
+[2024.01.24-10.45.03:262][435]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.01.24-10.45.03:262][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.24-10.45.03:262][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.24-10.45.03:262][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.24-10.45.03:262][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.24-10.45.03:262][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.24-10.45.03:262][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.24-10.45.03:262][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.24-10.45.03:262][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.24-10.45.03:262][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.24-10.45.03:262][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.24-10.45.03:262][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.24-10.45.03:264][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.24-10.45.03:278][435]LogAudioMixer: Display: Using Audio Hardware Device Out 1-2 (MOTU M Series)
+[2024.01.24-10.45.03:278][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.24-10.45.03:278][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.24-10.45.03:278][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.24-10.45.03:279][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.01.24-10.45.03:279][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.01.24-10.45.03:280][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.01.24-10.45.03:280][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.01.24-10.45.03:280][435]LogInit: FAudioDevice initialized with ID 33.
+[2024.01.24-10.45.03:280][435]LogAudio: Display: Audio Device (ID: 33) registered with world 'MainMenuMap'.
+[2024.01.24-10.45.03:280][435]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.01.24-10.45.03:283][435]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.01.24-10.45.03:283][435]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2024.01.24-04.45.03
+[2024.01.24-10.45.03:283][435]LogWorld: Bringing up level for play took: 0.000205
+[2024.01.24-10.45.03:285][435]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.01.24-10.45.03:286][435]PIE: Server logged in
+[2024.01.24-10.45.03:286][435]PIE: Play in editor total start time 0.059 seconds.
+[2024.01.24-10.45.06:035][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-10.45.06:035][753]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainMenuMap
+[2024.01.24-10.45.06:035][753]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-10.45.06:035][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.45.06:037][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-10.45.06:041][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.45.06:050][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-10.45.06:050][753]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.01.24-10.45.06:050][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.01.24-10.45.06:052][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.01.24-10.45.06:057][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.24-10.45.06:105][756]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.01.24-10.46.01:180][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.46.01:221][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.24-10.46.01:227][262]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainMenuMap
+[2024.01.24-10.46.01:228][262]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/MainMenuMapA6D4AB904367400D8D1B84A0B659889F.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/MainMenuMap.umap'
+[2024.01.24-10.46.01:231][262]LogFileHelpers: Saving map 'MainMenuMap' took 0.030
+[2024.01.24-10.46.01:235][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 6.10 sec)
+[2024.01.24-10.46.01:236][262]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Maps/MainMenuMap.MainMenuMap:PersistentLevel.MainMenuMap
+[2024.01.24-10.46.01:236][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-10.46.01:236][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-10.46.01:276][262]AssetCheck: New page: Asset Save: MainMenuMap
+[2024.01.24-10.46.01:276][262]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/MainMenuMap.MainMenuMap
+[2024.01.24-10.46.34:342][808]BlueprintLog: New page: Compile MainMenuMap
+[2024.01.24-10.46.34:353][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-10.46.34:359][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.46.34:408][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-10.46.34:413][808]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainMenuMap
+[2024.01.24-10.46.34:413][808]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/MainMenuMap5C3C319B4F768E1AD7834DBDFEE5D2BB.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/MainMenuMap.umap'
+[2024.01.24-10.46.34:417][808]LogFileHelpers: Saving map 'MainMenuMap' took 0.025
+[2024.01.24-10.46.34:422][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 6.16 sec)
+[2024.01.24-10.46.34:423][808]AssetCheck: New page: Asset Save: MainMenuMap
+[2024.01.24-10.46.34:423][808]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/MainMenuMap.MainMenuMap
+[2024.01.24-10.46.35:517][935]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.24-10.46.35:521][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.24-10.46.35:521][935]PIE: New page: PIE session: MainMenuMap (Jan 23, 2024, 10:46:35 PM)
+[2024.01.24-10.46.35:553][935]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_MainMenuMap
+[2024.01.24-10.46.35:554][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000827s)
+[2024.01.24-10.46.35:554][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/MainMenuMap.MainMenuMap to /Game/FirstPerson/Maps/UEDPIE_0_MainMenuMap.MainMenuMap (0.000862s)
+[2024.01.24-10.46.35:562][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.24-10.46.35:565][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-10.46.35:565][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-10.46.35:565][935]LogAIModule: Creating AISystem for world MainMenuMap
+[2024.01.24-10.46.35:566][935]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2024.01.24-10.46.35:566][935]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.01.24-10.46.35:566][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.24-10.46.35:566][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.24-10.46.35:566][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.24-10.46.35:566][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.24-10.46.35:566][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.24-10.46.35:566][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.24-10.46.35:566][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.24-10.46.35:566][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.24-10.46.35:566][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.24-10.46.35:566][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.24-10.46.35:566][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.24-10.46.35:568][935]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.24-10.46.35:583][935]LogAudioMixer: Display: Using Audio Hardware Device Out 1-2 (MOTU M Series)
+[2024.01.24-10.46.35:583][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.24-10.46.35:583][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.24-10.46.35:583][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.24-10.46.35:584][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.01.24-10.46.35:584][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.01.24-10.46.35:585][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.01.24-10.46.35:585][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.01.24-10.46.35:585][935]LogInit: FAudioDevice initialized with ID 34.
+[2024.01.24-10.46.35:585][935]LogAudio: Display: Audio Device (ID: 34) registered with world 'MainMenuMap'.
+[2024.01.24-10.46.35:585][935]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.01.24-10.46.35:587][935]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.01.24-10.46.35:588][935]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 0) at 2024.01.24-04.46.35
+[2024.01.24-10.46.35:588][935]LogWorld: Bringing up level for play took: 0.000319
+[2024.01.24-10.46.35:589][935]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.01.24-10.46.35:590][935]PIE: Server logged in
+[2024.01.24-10.46.35:591][935]PIE: Play in editor total start time 0.069 seconds.
+[2024.01.24-10.46.48:633][329]LogViewport: Scene viewport resized to 1667x991, mode Windowed.
+[2024.01.24-10.46.48:687][331]LogViewport: Scene viewport resized to 929x503, mode Windowed.
+[2024.01.24-10.46.48:709][332]LogViewport: Scene viewport resized to 511x225, mode Windowed.
+[2024.01.24-10.46.49:139][383]LogViewport: Scene viewport resized to 1669x973, mode Windowed.
+[2024.01.24-10.46.50:538][541]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-10.46.50:538][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.46.54:105][957]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.24-10.46.54:105][957]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-10.46.54:105][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.46.55:062][ 67]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.24-10.46.55:062][ 67]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-10.46.55:062][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.46.55:558][124]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.24-10.46.55:558][124]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-10.46.55:558][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.46.58:318][452]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.24-10.46.58:318][452]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-10.46.58:318][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.47.00:600][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-10.47.00:600][715]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainMenuMap
+[2024.01.24-10.47.00:600][715]LogWorld: UWorld::CleanupWorld for MainMenuMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-10.47.00:600][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.47.00:602][715]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.24-10.47.00:606][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-10.47.00:616][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.24-10.47.00:616][715]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.01.24-10.47.00:616][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.01.24-10.47.00:617][715]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.01.24-10.47.00:623][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-10.47.00:648][716]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.01.24-10.48.11:959][540]LogContentBrowser: Attempting asset rename: FirstPersonMap -> VillageMap
+[2024.01.24-10.48.12:046][540]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_2_2_0.Weightmap_9 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.01.24-10.48.12:046][540]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_2_2_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.01.24-10.48.12:047][540]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_2_2_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.01.24-10.48.12:059][540]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_2_1_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.01.24-10.48.12:060][540]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_2_1_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.01.24-10.48.12:066][540]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_1_2_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.01.24-10.48.12:066][540]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_1_2_0.Weightmap_9 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.01.24-10.48.12:066][540]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_1_2_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.01.24-10.48.12:073][540]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-10.48.12:074][540]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.24-10.48.12:074][540]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-10.48.12:074][540]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.24-10.48.12:076][540]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.24-10.48.12:076][540]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 493 ms)
+[2024.01.24-10.48.26:532][540]LogSlate: Window 'Message' being destroyed
+[2024.01.24-10.48.26:540][540]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+FirstPersonMap
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.01.24-10.48.26:556][541]LogAutomationController: Ignoring very large delta of 14.60 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: ================================================
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Total job queries 291, among them cache hits 94 (32.30%)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Tracking 197 distinct input hashes that result in 169 distinct outputs (85.79%)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: RAM used: 4.82 MiB of 3.20 GiB budget. Usage: 0.15%
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Shaders Compiled: 14
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Average time worker was idle: 55.80 s
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.09 s
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Job execution time: average 0.23 s, max 0.34 s
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Job life time (pending + execution): average 0.30 s, max 0.43
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Shader code size: average 39.23 KiB, min 35.375 KiB, max 45.672 KiB
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.13 s
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Average processing rate: 12.41 jobs/sec
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Total thread time: 1.658 s
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Total thread preprocess time: 0.176 s
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Percentage time preprocessing: 10.62%
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Effective parallelization: 1.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.17 sec, max 0.18 sec, min 0.16 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.13 sec, max 0.14 sec, min 0.12 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.13 sec, max 0.13 sec, min 0.12 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    2 times, average 0.12 sec, max 0.13 sec, min 0.12 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.29% of total time (compiled    2 times, average 0.17 sec, max 0.18 sec, min 0.16 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.41% of total time (compiled    2 times, average 0.13 sec, max 0.14 sec, min 0.12 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.30% of total time (compiled    2 times, average 0.13 sec, max 0.13 sec, min 0.12 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 14.97% of total time (compiled    2 times, average 0.12 sec, max 0.13 sec, min 0.12 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.99% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.01.24-10.48.26:576][542]LogShaderCompilers: Display: ================================================
+[2024.01.24-10.48.30:879][941]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.01.24-10.48.30:899][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.24-10.48.30:913][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.48.30:942][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/WBP_MainMenu" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.01.24-10.48.30:945][941]LogSavePackage: Moving output files for package: /Game/Assets/UI/WBP_MainMenu
+[2024.01.24-10.48.30:946][941]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_MainMenuE9DE801049C5F778B594A7B69FC82CDC.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset'
+[2024.01.24-10.48.30:952][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 6.20 sec)
+[2024.01.24-10.48.30:953][941]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.01.24-10.48.30:953][941]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-10.48.32:247][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
