@@ -2,7 +2,7 @@
  This repo contains both C++ standalone and Unreal Engine game projects.
  
 ## Project Intentions:
-  This website is intended as a convenient way for potential employers or coworkers to learn more about me, my experiences in tech, and my portfolio.
+  This repo is intended to showcase my abilities and learning progress with Unreal Engine 5 and C++.
 
 ## How can I playtest these games?
   Excellent question! 
