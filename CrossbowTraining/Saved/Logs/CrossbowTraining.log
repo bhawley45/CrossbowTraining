@@ -2786,3 +2786,28 @@ Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get FirstPersonMesh
 [2024.01.24-00.48.50:036][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 2.68 sec)
 [2024.01.24-00.48.50:037][666]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
 [2024.01.24-00.48.50:037][666]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.24-00.49.36:984][687]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Crossbow.BP_Crossbow
+[2024.01.24-00.49.36:984][687]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-00.49.36:984][687]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-00.50.09:808][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-00.50.09:912][606]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Crossbow
+[2024.01.24-00.50.09:912][606]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_CrossbowA47D30ED4FB2354A8BA1BBA64649CF22.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_Crossbow.uasset'
+[2024.01.24-00.50.09:918][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.79 sec)
+[2024.01.24-00.50.09:919][606]AssetCheck: New page: Asset Save: BP_Crossbow
+[2024.01.24-00.50.09:919][606]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Crossbow.BP_Crossbow
+[2024.01.24-00.50.13:432][ 28]BlueprintLog: New page: Compile BP_Crossbow
+[2024.01.24-00.50.13:454][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.24-00.50.37:650][589]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.01.24-00.50.37:679][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.24-00.50.37:716][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-00.50.37:815][589]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.24-00.50.37:816][589]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_FirstPersonCharacter0B9B88384A385B0D34A657A1212D96C1.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.24-00.50.37:821][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.90 sec)
+[2024.01.24-00.50.37:822][589]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.24-00.50.37:822][589]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.24-00.50.38:756][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-00.50.38:793][693]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.01.24-00.50.38:793][693]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_FirstPersonCharacter5B0892F245D3CF44D0EA9BBF3025BAF3.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.01.24-00.50.38:799][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 2.94 sec)
+[2024.01.24-00.50.38:800][693]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.01.24-00.50.38:800][693]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
