@@ -6701,3 +6701,22 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.01.24-10.48.30:953][941]AssetCheck: New page: Asset Save: WBP_MainMenu
 [2024.01.24-10.48.30:953][941]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
 [2024.01.24-10.48.32:247][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-10.49.16:826][585]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.01.24-10.49.16:843][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.24-10.49.16:852][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.49.16:882][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/WBP_MainMenu" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.01.24-10.49.16:886][585]LogSavePackage: Moving output files for package: /Game/Assets/UI/WBP_MainMenu
+[2024.01.24-10.49.16:887][585]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_MainMenu5F57B62145002DBC27ED0CBF15F13AE5.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset'
+[2024.01.24-10.49.16:892][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 6.24 sec)
+[2024.01.24-10.49.16:893][585]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.01.24-10.49.16:893][585]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-10.49.23:159][330]BlueprintLog: New page: Compile WBP_MainMenu
+[2024.01.24-10.49.23:175][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.24-10.49.23:240][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-10.49.23:268][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/WBP_MainMenu" FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset" SILENT=true
+[2024.01.24-10.49.23:272][330]LogSavePackage: Moving output files for package: /Game/Assets/UI/WBP_MainMenu
+[2024.01.24-10.49.23:272][330]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_MainMenu03C3600143E3F2AC33DDC7BA1E9ED2BE.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/Assets/UI/WBP_MainMenu.uasset'
+[2024.01.24-10.49.23:279][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 6.27 sec)
+[2024.01.24-10.49.23:286][330]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2024.01.24-10.49.23:286][330]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Assets/UI/WBP_MainMenu.WBP_MainMenu
+[2024.01.24-10.49.37:346][996]LogContentBrowser: Attempting asset rename: FirstPersonMap -> FirstPersonMap
