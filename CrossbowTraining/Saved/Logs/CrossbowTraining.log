@@ -2151,3 +2151,58 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-13.34.29:503][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
 [2024.01.24-13.34.29:514][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2024.01.24-13.34.29:525][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.24-13.34.57:424][363]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_EndScreen.WBP_EndScreen
+[2024.01.24-13.34.57:424][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-13.34.57:424][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-13.34.57:431][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.24-13.34.57:431][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-13.35.15:425][443]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-13.35.25:746][673]BlueprintLog: New page: Compile WBP_EndScreen
+[2024.01.24-13.35.25:767][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.24-13.35.25:775][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-13.35.25:816][673]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_EndScreen
+[2024.01.24-13.35.25:816][673]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_EndScreenC2B1949343DF6A7F2F3540A9C9805541.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset'
+[2024.01.24-13.35.25:822][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 2.05 sec)
+[2024.01.24-13.35.25:823][673]AssetCheck: New page: Asset Save: WBP_EndScreen
+[2024.01.24-13.35.25:823][673]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_EndScreen.WBP_EndScreen
+[2024.01.24-13.36.01:034][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.24-13.36.01:037][391]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2024.01.24-13.36.01:037][391]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/WBP_EndScreen] ([2] browsable assets)...
+[2024.01.24-13.36.01:041][391]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_EndScreen.WBP_EndScreen]
+[2024.01.24-13.36.01:041][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/WBP_EndScreen]
+[2024.01.24-13.36.01:048][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WBP_EndScreen_Auto1
+[2024.01.24-13.36.01:048][391]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_EndScreen_Auto1DE49748442A404693123C58A84647DC7.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Autosaves/Game/FirstPerson/Blueprints/WBP_EndScreen_Auto1.uasset'
+[2024.01.24-13.36.01:049][391]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.01.24-13.36.16:742][958]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.24-13.36.18:394][155]BlueprintLog: New page: Compile WBP_EndScreen
+[2024.01.24-13.36.18:414][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.01.24-13.36.18:523][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-13.36.18:559][155]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_EndScreen
+[2024.01.24-13.36.18:560][155]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_EndScreen74769AE34D6461B94368E5A19E1F1735.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset'
+[2024.01.24-13.36.18:565][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 2.09 sec)
+[2024.01.24-13.36.18:582][155]AssetCheck: New page: Asset Save: WBP_EndScreen
+[2024.01.24-13.36.18:582][155]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_EndScreen.WBP_EndScreen
+[2024.01.24-13.36.48:696][116]BlueprintLog: New page: Compile WBP_EndScreen
+[2024.01.24-13.36.48:719][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.01.24-13.36.48:829][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-13.36.48:868][116]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_EndScreen
+[2024.01.24-13.36.48:868][116]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_EndScreenF12F96A645B9CD70D0485A8033CA7CAC.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset'
+[2024.01.24-13.36.48:874][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 2.14 sec)
+[2024.01.24-13.36.48:889][116]AssetCheck: New page: Asset Save: WBP_EndScreen
+[2024.01.24-13.36.48:889][116]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_EndScreen.WBP_EndScreen
+[2024.01.24-13.38.12:880][720]BlueprintLog: New page: Compile WBP_EndScreen
+[2024.01.24-13.38.12:902][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.01.24-13.38.12:924][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-13.38.12:962][720]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_EndScreen
+[2024.01.24-13.38.12:963][720]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_EndScreen9AE531EB4F6C54AC7A3CB09D4FD7EDC5.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset'
+[2024.01.24-13.38.12:969][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 2.18 sec)
+[2024.01.24-13.38.12:970][720]AssetCheck: New page: Asset Save: WBP_EndScreen
+[2024.01.24-13.38.12:970][720]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_EndScreen.WBP_EndScreen
+[2024.01.24-13.38.47:162][720]BlueprintLog: New page: Compile WBP_EndScreen
+[2024.01.24-13.38.47:184][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.24-13.38.47:206][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.24-13.38.47:245][720]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/WBP_EndScreen
+[2024.01.24-13.38.47:245][720]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/WBP_EndScreen87ED805B4E7DF0A5AD7E44B4B1430866.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset'
+[2024.01.24-13.38.47:256][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 2.23 sec)
+[2024.01.24-13.38.47:257][720]AssetCheck: New page: Asset Save: WBP_EndScreen
+[2024.01.24-13.38.47:257][720]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_EndScreen.WBP_EndScreen
