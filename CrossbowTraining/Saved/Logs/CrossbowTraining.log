@@ -1910,3 +1910,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.28-04.18.48:514][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.01.28-04.18.48:524][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2024.01.28-04.18.48:558][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.01.28-04.25.49:535][764]LogSlate: Window 'Message Log' being destroyed
+[2024.01.28-04.25.49:550][764]LogSlate: Window 'Message Log' being destroyed
+[2024.01.28-04.26.02:542][746]LogSlate: Window 'Project Launcher' being destroyed
+[2024.01.28-04.26.02:557][746]LogSlate: Window 'Project Launcher' being destroyed
+[2024.01.28-04.26.04:386][908]LogSlate: External Image Picker: DecompressImage failed
+[2024.01.28-04.26.08:518][303]LogLinker: Warning: Failed to load '/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode': Can't find file.
+[2024.01.28-04.26.08:518][303]LogLinker: Warning: Failed to load '/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode': Can't find file.
+[2024.01.28-04.26.08:525][303]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C'
+[2024.01.28-04.26.09:400][386]LogSlate: Took 0.000473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.28-04.26.12:082][636]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-04.27.03:455][ 55]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.28-04.27.03:463][ 55]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.28-04.27.06:462][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
