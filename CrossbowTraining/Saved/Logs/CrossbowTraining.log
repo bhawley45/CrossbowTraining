@@ -1538,3 +1538,375 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.28-04.06.11:500][866]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2024.01.28-04.06.13:198][ 18]LogSlate: Window 'Project Settings' being destroyed
 [2024.01.28-04.06.13:205][ 18]LogSlate: Window 'Project Settings' being destroyed
+[2024.01.28-04.11.16:457][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedVillagePack/Blueprints/BP_Well.BP_Well
+[2024.01.28-04.11.16:457][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-04.11.16:457][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-04.11.18:806][457]LogSlate: Window 'BP_Well' being destroyed
+[2024.01.28-04.11.21:293][725]LogViewport: Scene viewport resized to 1669x973, mode Windowed.
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: ================================================
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: Total job queries 255, among them cache hits 38 (14.90%)
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: Tracking 217 distinct input hashes that result in 186 distinct outputs (85.71%)
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: RAM used: 5.41 MiB of 3.20 GiB budget. Usage: 0.17%
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.28-04.11.22:282][830]LogShaderCompilers: Display: ================================================
+[2024.01.28-04.12.15:983][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.28-04.12.15:992][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-04.12.16:042][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.28-04.12.16:048][628]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.28-04.12.16:048][628]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FirstPersonMapD0520C1D476865518FF6EAB4C2D371DC.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2024.01.28-04.12.16:052][628]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP
+[2024.01.28-04.12.16:052][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-04.12.16:055][628]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP
+[2024.01.28-04.12.16:056][628]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T8G46R1WR1KTUOJ74YKQGP39733B40472B0A7A308FE698A39710A1.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP.uasset'
+[2024.01.28-04.12.16:057][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 4 ms (total: 627 ms)
+[2024.01.28-04.12.16:057][628]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP
+[2024.01.28-04.12.16:058][628]LogFileHelpers: Saving map 'FirstPersonMap' took 0.037
+[2024.01.28-04.12.16:060][628]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP
+[2024.01.28-04.12.16:061][628]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T8G46R1WR1KTUOJ74YKQGPC34ED379447662B61324EF80E7B84C65.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP.uasset'
+[2024.01.28-04.12.16:085][628]LogSavePackage: Moving output files for package: /Game/AdvancedVillagePack/Blueprints/BP_Well
+[2024.01.28-04.12.16:086][628]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_Well973B9AE74BDD8DB7D74341AE8DA331F2.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/AdvancedVillagePack/Blueprints/BP_Well.uasset'
+[2024.01.28-04.12.16:094][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 729 ms)
+[2024.01.28-04.12.16:096][628]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-04.12.16:096][628]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.01.28-04.12.16:096][628]LogContentValidation: Display: Validating /Game/AdvancedVillagePack/Blueprints/BP_Well.BP_Well_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Well_C_UAID_9C6B0000AA207AD201_1991098394
+[2024.01.28-04.12.16:097][628]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AdvancedVillagePack/Blueprints/BP_Well.BP_Well
+[2024.01.28-04.12.16:602][685]BlueprintLog: New page: Compile BP_Well
+[2024.01.28-04.12.16:630][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.28-04.12.44:087][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.01.28-04.12.44:095][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-04.12.44:141][665]LogSavePackage: Moving output files for package: /Game/AdvancedVillagePack/Blueprints/BP_Well
+[2024.01.28-04.12.44:141][665]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_Well953C8EC54B857BEF0732C38D99287269.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/AdvancedVillagePack/Blueprints/BP_Well.uasset'
+[2024.01.28-04.12.44:148][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 782 ms)
+[2024.01.28-04.12.44:150][665]AssetCheck: New page: Asset Save: BP_Well
+[2024.01.28-04.12.44:150][665]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AdvancedVillagePack/Blueprints/BP_Well.BP_Well
+[2024.01.28-04.12.44:801][739]BlueprintLog: New page: Compile BP_Well
+[2024.01.28-04.12.44:829][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.28-04.13.48:246][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.01.28-04.13.48:257][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-04.13.48:285][953]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP
+[2024.01.28-04.13.48:285][953]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T8G46R1WR1KTUOJ74YKQGPD522F9E543C8968B8047A696C047D19F.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP.uasset'
+[2024.01.28-04.13.48:307][953]LogSavePackage: Moving output files for package: /Game/AdvancedVillagePack/Blueprints/BP_Well
+[2024.01.28-04.13.48:308][953]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_Well502F5A2B47C9925F14C9478283BC79E1.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/AdvancedVillagePack/Blueprints/BP_Well.uasset'
+[2024.01.28-04.13.48:315][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 840 ms)
+[2024.01.28-04.13.48:318][953]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-04.13.48:318][953]LogContentValidation: Display: Validating /Game/AdvancedVillagePack/Blueprints/BP_Well.BP_Well_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Well_C_UAID_9C6B0000AA207AD201_1991098394
+[2024.01.28-04.13.48:318][953]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AdvancedVillagePack/Blueprints/BP_Well.BP_Well
+[2024.01.28-04.13.48:993][ 18]BlueprintLog: New page: Compile BP_Well
+[2024.01.28-04.13.49:021][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.28-04.13.53:590][446]MapCheck: New page: Map Check
+[2024.01.28-04.13.53:613][446]Cmd: MAP REBUILD ALLVISIBLE
+[2024.01.28-04.13.53:614][446]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.01.28-04.13.53:629][446]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-04.13.53:633][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-04.13.53:638][446]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.28-04.13.53:638][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-04.13.53:638][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-04.13.53:642][446]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.28-04.13.53:642][446]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.28-04.13.53:642][446]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.28-04.13.53:648][446]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.28-04.13.53:648][446]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 857 ms)
+[2024.01.28-04.13.54:580][446]LogSlate: Window 'Build HLODs' being destroyed
+[2024.01.28-04.13.54:601][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.28-04.13.55:848][446]LogSlate: Window 'Save Content' being destroyed
+[2024.01.28-04.13.55:860][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-04.13.55:899][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.28-04.13.55:904][446]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.28-04.13.55:904][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FirstPersonMap14405D9648C2E29312046BAE5683203D.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2024.01.28-04.13.55:908][446]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R8/QC5Z7BOEAMUWSRXIO7VT5G
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JS/8V7O3BQF0RAU7JA82KY9NL
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/U7/QPGJTDHWX1QYT0UJCQNETP
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3F/Z4MV7EKTPJBTT0HSA87ZM1
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YR/7H713YKDJ393KT350S1PYB
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2I/OK6O8VU9G1Z6AOF3PEE0PH
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/56/B7SQFCLQV796S223RL48T9
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/74/YK0FJKB9YCCO451MXESAY9
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HM/371VA8C4Y2DHEX1DE4ZGTT
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/K9/QCMULM7A039G90NAN3YNJ8
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/PY/05BNIT2KYSGKMPCRQ1ZDAX
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RS/M510PTLBUB5WX7ERMOVH3F
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/5YIB0L7CFB1ZC5IIOH0PJC
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3C/DYVAH45P762QU1XCY9DENA
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UP/7GOVTYO3ZZXJADW9ZDHAP2
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/28/N26T8RKQ9BBVAW6L7EITPB
+[2024.01.28-04.13.55:908][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-04.13.55:917][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R8/QC5Z7BOEAMUWSRXIO7VT5G
+[2024.01.28-04.13.55:918][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/QC5Z7BOEAMUWSRXIO7VT5G93C05D6D46A9E914EF3DC0BF8A724B55.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R8/QC5Z7BOEAMUWSRXIO7VT5G.uasset'
+[2024.01.28-04.13.55:926][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JS/8V7O3BQF0RAU7JA82KY9NL
+[2024.01.28-04.13.55:927][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/8V7O3BQF0RAU7JA82KY9NL5DCABE054B1300EB863A558E89D631BD.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JS/8V7O3BQF0RAU7JA82KY9NL.uasset'
+[2024.01.28-04.13.55:935][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/U7/QPGJTDHWX1QYT0UJCQNETP
+[2024.01.28-04.13.55:935][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/QPGJTDHWX1QYT0UJCQNETP8BD8183A400BB954695349A81E625196.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/U7/QPGJTDHWX1QYT0UJCQNETP.uasset'
+[2024.01.28-04.13.55:943][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3F/Z4MV7EKTPJBTT0HSA87ZM1
+[2024.01.28-04.13.55:943][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Z4MV7EKTPJBTT0HSA87ZM1FBE4D3B64DBCC98725B7CE83DA5D07F0.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3F/Z4MV7EKTPJBTT0HSA87ZM1.uasset'
+[2024.01.28-04.13.55:952][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YR/7H713YKDJ393KT350S1PYB
+[2024.01.28-04.13.55:953][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/7H713YKDJ393KT350S1PYB469495BA496E5B093C63E88C9C4574B6.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YR/7H713YKDJ393KT350S1PYB.uasset'
+[2024.01.28-04.13.55:961][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2I/OK6O8VU9G1Z6AOF3PEE0PH
+[2024.01.28-04.13.55:962][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/OK6O8VU9G1Z6AOF3PEE0PHD478509141C58FCE1DB41C9D70E0C93B.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2I/OK6O8VU9G1Z6AOF3PEE0PH.uasset'
+[2024.01.28-04.13.55:970][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/56/B7SQFCLQV796S223RL48T9
+[2024.01.28-04.13.55:970][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/B7SQFCLQV796S223RL48T9762302B64AAAC99DE465989860825C4F.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/56/B7SQFCLQV796S223RL48T9.uasset'
+[2024.01.28-04.13.55:980][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/74/YK0FJKB9YCCO451MXESAY9
+[2024.01.28-04.13.55:980][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/YK0FJKB9YCCO451MXESAY96A3603A442EF5E0D15DEE09995FA2E4E.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/74/YK0FJKB9YCCO451MXESAY9.uasset'
+[2024.01.28-04.13.55:989][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HM/371VA8C4Y2DHEX1DE4ZGTT
+[2024.01.28-04.13.55:989][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/371VA8C4Y2DHEX1DE4ZGTT86A1C45843162BD4A0E45F96E159CA0E.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HM/371VA8C4Y2DHEX1DE4ZGTT.uasset'
+[2024.01.28-04.13.55:997][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/K9/QCMULM7A039G90NAN3YNJ8
+[2024.01.28-04.13.55:998][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/QCMULM7A039G90NAN3YNJ8D47C7C6240443D83B441818416CC4C36.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/K9/QCMULM7A039G90NAN3YNJ8.uasset'
+[2024.01.28-04.13.56:006][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/PY/05BNIT2KYSGKMPCRQ1ZDAX
+[2024.01.28-04.13.56:006][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/05BNIT2KYSGKMPCRQ1ZDAXF2F11740420C9247AD73329BA8647D8E.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/PY/05BNIT2KYSGKMPCRQ1ZDAX.uasset'
+[2024.01.28-04.13.56:015][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RS/M510PTLBUB5WX7ERMOVH3F
+[2024.01.28-04.13.56:015][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/M510PTLBUB5WX7ERMOVH3F60B24D5E4400EFDCC64A1AA8C331F6F4.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RS/M510PTLBUB5WX7ERMOVH3F.uasset'
+[2024.01.28-04.13.56:023][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/5YIB0L7CFB1ZC5IIOH0PJC
+[2024.01.28-04.13.56:023][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/5YIB0L7CFB1ZC5IIOH0PJC09FCE1D8453D3D610D88208819548679.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/5YIB0L7CFB1ZC5IIOH0PJC.uasset'
+[2024.01.28-04.13.56:032][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3C/DYVAH45P762QU1XCY9DENA
+[2024.01.28-04.13.56:033][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/DYVAH45P762QU1XCY9DENA980F8F4E40A3FF6FECFBF4B5B69A0A65.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3C/DYVAH45P762QU1XCY9DENA.uasset'
+[2024.01.28-04.13.56:041][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UP/7GOVTYO3ZZXJADW9ZDHAP2
+[2024.01.28-04.13.56:041][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/7GOVTYO3ZZXJADW9ZDHAP2C18340BA40DBE0B744C7D888280073B0.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UP/7GOVTYO3ZZXJADW9ZDHAP2.uasset'
+[2024.01.28-04.13.56:049][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/28/N26T8RKQ9BBVAW6L7EITPB
+[2024.01.28-04.13.56:050][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/N26T8RKQ9BBVAW6L7EITPB0E31F4F34E5E7DADE2F442923387C55F.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/28/N26T8RKQ9BBVAW6L7EITPB.uasset'
+[2024.01.28-04.13.56:051][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 982 ms)
+[2024.01.28-04.13.56:051][446]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R8/QC5Z7BOEAMUWSRXIO7VT5G
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JS/8V7O3BQF0RAU7JA82KY9NL
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/U7/QPGJTDHWX1QYT0UJCQNETP
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3F/Z4MV7EKTPJBTT0HSA87ZM1
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YR/7H713YKDJ393KT350S1PYB
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2I/OK6O8VU9G1Z6AOF3PEE0PH
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/56/B7SQFCLQV796S223RL48T9
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/74/YK0FJKB9YCCO451MXESAY9
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HM/371VA8C4Y2DHEX1DE4ZGTT
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/K9/QCMULM7A039G90NAN3YNJ8
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/PY/05BNIT2KYSGKMPCRQ1ZDAX
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RS/M510PTLBUB5WX7ERMOVH3F
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/5YIB0L7CFB1ZC5IIOH0PJC
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3C/DYVAH45P762QU1XCY9DENA
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UP/7GOVTYO3ZZXJADW9ZDHAP2
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/28/N26T8RKQ9BBVAW6L7EITPB
+[2024.01.28-04.13.56:052][446]LogFileHelpers: Saving map 'FirstPersonMap' took 0.175
+[2024.01.28-04.13.56:059][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/5YIB0L7CFB1ZC5IIOH0PJC
+[2024.01.28-04.13.56:059][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/5YIB0L7CFB1ZC5IIOH0PJCC90967F044785B0E06464EAD386BFEBC.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TI/5YIB0L7CFB1ZC5IIOH0PJC.uasset'
+[2024.01.28-04.13.56:071][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RS/M510PTLBUB5WX7ERMOVH3F
+[2024.01.28-04.13.56:071][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/M510PTLBUB5WX7ERMOVH3FEAB20A8743BBB75E91BF79A7F744A2CE.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RS/M510PTLBUB5WX7ERMOVH3F.uasset'
+[2024.01.28-04.13.56:079][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/28/N26T8RKQ9BBVAW6L7EITPB
+[2024.01.28-04.13.56:080][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/N26T8RKQ9BBVAW6L7EITPB1B5626084B40F873F90221BEF3B8A6F0.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/28/N26T8RKQ9BBVAW6L7EITPB.uasset'
+[2024.01.28-04.13.56:088][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2I/OK6O8VU9G1Z6AOF3PEE0PH
+[2024.01.28-04.13.56:088][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/OK6O8VU9G1Z6AOF3PEE0PHBD88AC2D483BB35B9D7F12ADCD07520F.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2I/OK6O8VU9G1Z6AOF3PEE0PH.uasset'
+[2024.01.28-04.13.56:096][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YR/7H713YKDJ393KT350S1PYB
+[2024.01.28-04.13.56:096][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/7H713YKDJ393KT350S1PYB73D23D0140E71ECA4F7194B511E05235.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/YR/7H713YKDJ393KT350S1PYB.uasset'
+[2024.01.28-04.13.56:105][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UP/7GOVTYO3ZZXJADW9ZDHAP2
+[2024.01.28-04.13.56:105][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/7GOVTYO3ZZXJADW9ZDHAP2157AA239437FC5F53482B091D16D19EE.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UP/7GOVTYO3ZZXJADW9ZDHAP2.uasset'
+[2024.01.28-04.13.56:114][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3C/DYVAH45P762QU1XCY9DENA
+[2024.01.28-04.13.56:114][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/DYVAH45P762QU1XCY9DENA738FBECA4611487B86112280905753B2.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3C/DYVAH45P762QU1XCY9DENA.uasset'
+[2024.01.28-04.13.56:122][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3F/Z4MV7EKTPJBTT0HSA87ZM1
+[2024.01.28-04.13.56:123][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Z4MV7EKTPJBTT0HSA87ZM1FE3C090841A0951BE745C8A806C8582D.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/3F/Z4MV7EKTPJBTT0HSA87ZM1.uasset'
+[2024.01.28-04.13.56:131][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JS/8V7O3BQF0RAU7JA82KY9NL
+[2024.01.28-04.13.56:131][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/8V7O3BQF0RAU7JA82KY9NL5D0FC71F4F34DDEE4E097BAC9CE3A458.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/JS/8V7O3BQF0RAU7JA82KY9NL.uasset'
+[2024.01.28-04.13.56:141][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/74/YK0FJKB9YCCO451MXESAY9
+[2024.01.28-04.13.56:141][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/YK0FJKB9YCCO451MXESAY94D856C81469559EBAA430099FCFA8EFC.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/74/YK0FJKB9YCCO451MXESAY9.uasset'
+[2024.01.28-04.13.56:150][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R8/QC5Z7BOEAMUWSRXIO7VT5G
+[2024.01.28-04.13.56:150][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/QC5Z7BOEAMUWSRXIO7VT5G9E7C4C634FA1B7CAB0A82890D0067BFA.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/R8/QC5Z7BOEAMUWSRXIO7VT5G.uasset'
+[2024.01.28-04.13.56:158][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/56/B7SQFCLQV796S223RL48T9
+[2024.01.28-04.13.56:159][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/B7SQFCLQV796S223RL48T9666A8D61421005E465C53991280AEE31.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/56/B7SQFCLQV796S223RL48T9.uasset'
+[2024.01.28-04.13.56:166][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/U7/QPGJTDHWX1QYT0UJCQNETP
+[2024.01.28-04.13.56:166][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/QPGJTDHWX1QYT0UJCQNETP1A797EDD417B7D405531679C072C89FD.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/U7/QPGJTDHWX1QYT0UJCQNETP.uasset'
+[2024.01.28-04.13.56:175][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HM/371VA8C4Y2DHEX1DE4ZGTT
+[2024.01.28-04.13.56:176][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/371VA8C4Y2DHEX1DE4ZGTTF0847A1349967F84B4FD26A94A75881D.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HM/371VA8C4Y2DHEX1DE4ZGTT.uasset'
+[2024.01.28-04.13.56:184][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/K9/QCMULM7A039G90NAN3YNJ8
+[2024.01.28-04.13.56:184][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/QCMULM7A039G90NAN3YNJ8E6311B724F2D95694057AEB9276608E9.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/K9/QCMULM7A039G90NAN3YNJ8.uasset'
+[2024.01.28-04.13.56:192][446]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/PY/05BNIT2KYSGKMPCRQ1ZDAX
+[2024.01.28-04.13.56:193][446]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/05BNIT2KYSGKMPCRQ1ZDAXA6332887436AEC1697B59785061C1F19.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/PY/05BNIT2KYSGKMPCRQ1ZDAX.uasset'
+[2024.01.28-04.13.56:196][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 335 ms (total: 1.31 sec)
+[2024.01.28-04.13.56:196][446]LightingResults: New page: Lighting Build
+[2024.01.28-04.13.56:214][446]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-04.13.56:214][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-04.13.56:216][446]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.28-04.13.56:216][446]MapCheck: New page: Map Check
+[2024.01.28-04.13.56:216][446]LightingResults: New page: Lighting Build
+[2024.01.28-04.13.56:228][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-04.13.56:239][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.28-04.13.56:242][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-04.13.56:242][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-04.13.56:243][446]LogAIModule: Creating AISystem for world Untitled
+[2024.01.28-04.13.56:243][446]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.01.28-04.13.56:268][446]LoadErrors: New page: New Map
+[2024.01.28-04.13.56:279][446]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-04.13.56:279][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-04.13.56:312][446]LogWorldPartitionEditor: Display: Running commandlet: F:\EpicGames\UE_5.3\Engine\Binaries\Win64\UnrealEditor.exe  "C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/CrossbowTraining.uproject" -BaseDir="F:/EpicGames/UE_5.3/Engine/Binaries/Win64/" -Unattended -RunningFromUnrealEd -AbsLog="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Logs/WorldPartition/WorldPartitionHLODsBuilder-00008ab4-2024-01-27T22.13.56.312Z.log" /Game/FirstPerson/Maps/FirstPersonMap -run=WorldPartitionBuilderCommandlet -Builder=WorldPartitionHLODsBuilder -SetupHLODs -BuildHLODs -AllowCommandletRendering
+[2024.01.28-04.14.02:567][446]LogWorldPartitionEditor: Display: Commandlet executed successfully.
+[2024.01.28-04.14.02:567][446]LogWorldPartitionEditor: Display: Detailed output can be found in C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/Logs/WorldPartition/WorldPartitionHLODsBuilder-00008ab4-2024-01-27T22.13.56.312Z.log
+[2024.01.28-04.14.02:586][446]Cmd: MAP LOAD FILE="C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.28-04.14.02:587][446]LightingResults: New page: Lighting Build
+[2024.01.28-04.14.02:587][446]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2024.01.28-04.14.02:609][446]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-04.14.02:609][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-04.14.02:609][446]MapCheck: New page: Map Check
+[2024.01.28-04.14.02:609][446]LightingResults: New page: Lighting Build
+[2024.01.28-04.14.02:621][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-04.14.02:625][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.28-04.14.02:657][446]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.01.28-04.14.02:657][446]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-04.14.02:657][446]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-04.14.02:658][446]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.28-04.14.02:659][446]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.28-04.14.02:659][446]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.28-04.14.02:659][446]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.28-04.14.02:884][446]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.28-04.14.02:884][446]LogWorldPartition: Display: WorldPartition initialize took 225 ms (total: 1.08 sec)
+[2024.01.28-04.14.03:048][446]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.28-04.14.03:064][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.01.28-04.14.03:068][446]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.28-04.14.03:069][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.373ms to complete.
+[2024.01.28-04.14.03:069][446]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.01.28-04.14.03:082][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.28-04.14.03:131][446]LogLevel: Display: Export Material TexCoord Scales took 0.048 seconds.
+[2024.01.28-04.14.03:136][446]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2024.01.28-04.14.03:147][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.28-04.14.03:151][446]LightingResults: New page: Lighting Build - Jan 27, 2024, 4:14:03 PM
+[2024.01.28-04.14.03:151][446]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2024.01.28-04.14.03:162][446]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.01.28-04.14.03:162][446]MapCheck: New page: FirstPersonMap - Jan 27, 2024, 4:14:03 PM
+[2024.01.28-04.14.03:163][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.488ms to complete.
+[2024.01.28-04.14.03:163][446]LogEditorBuildUtils: Build time 0:09
+[2024.01.28-04.14.03:193][446]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_2_2_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_2_0_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_3_0_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_1_3_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_1_0_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_0_3_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_2_3_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_2_1_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_3_1_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_3_2_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_3_3_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_0_1_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_0_0_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_1_2_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_1_1_0
+[2024.01.28-04.14.03:193][446]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_E2PC4TAXEIDV5SJP1LUCD1O5F_126_0_2_0
+[2024.01.28-04.14.06:658][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.28-04.14.06:668][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-04.14.06:722][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.01.28-04.14.06:726][739]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2024.01.28-04.14.06:727][739]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/FirstPersonMap90292E844DA6B0561E6BE5941107B77E.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2024.01.28-04.14.06:730][739]LogFileHelpers: All files are already saved.
+[2024.01.28-04.14.06:731][739]LogFileHelpers: Saving map 'FirstPersonMap' took 0.036
+[2024.01.28-04.14.06:737][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.38 sec)
+[2024.01.28-04.14.06:738][739]AssetCheck: New page: Asset Save: FirstPersonMap
+[2024.01.28-04.14.06:738][739]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.01.28-04.14.52:674][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedVillagePack/Blueprints/BP_Well.BP_Well
+[2024.01.28-04.14.52:675][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-04.14.52:675][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-04.14.54:244][352]LogViewport: Scene viewport resized to 1669x973, mode Windowed.
+[2024.01.28-04.17.31:062][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.28-04.17.31:076][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-04.17.31:105][277]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP
+[2024.01.28-04.17.31:106][277]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/T8G46R1WR1KTUOJ74YKQGP38780E8441BBA237705E87AE53EDEB46.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0K/T8G46R1WR1KTUOJ74YKQGP.uasset'
+[2024.01.28-04.17.31:128][277]LogSavePackage: Moving output files for package: /Game/AdvancedVillagePack/Blueprints/BP_Well
+[2024.01.28-04.17.31:129][277]LogSavePackage: Moving 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Saved/BP_WellFB0409B847C42AA4ECC0A1AA11318C27.tmp' to 'C:/Users/bhawl/Documents/GitHub/Unreal-Projects/CrossbowTraining/Content/AdvancedVillagePack/Blueprints/BP_Well.uasset'
+[2024.01.28-04.17.31:136][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.44 sec)
+[2024.01.28-04.17.31:138][277]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.28-04.17.31:138][277]LogContentValidation: Display: Validating /Game/AdvancedVillagePack/Blueprints/BP_Well.BP_Well_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Well_C_UAID_9C6B0000AA207AD201_1991098394
+[2024.01.28-04.17.31:138][277]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AdvancedVillagePack/Blueprints/BP_Well.BP_Well
+[2024.01.28-04.17.31:759][338]BlueprintLog: New page: Compile BP_Well
+[2024.01.28-04.17.31:787][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.01.28-04.18.14:959][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.28-04.18.16:326][108]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-04.18.16:339][108]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.28-04.18.16:339][108]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.28-04.18.16:342][108]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3 ms
+[2024.01.28-04.18.16:344][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-04.18.16:345][108]PIE: New page: PIE session: FirstPersonMap (Jan 27, 2024, 4:18:16 PM)
+[2024.01.28-04.18.16:350][108]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.01.28-04.18.16:351][108]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.01.28-04.18.16:352][108]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.28-04.18.16:382][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030150s)
+[2024.01.28-04.18.16:382][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.030196s)
+[2024.01.28-04.18.16:391][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.28-04.18.16:394][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-04.18.16:394][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-04.18.16:394][108]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.28-04.18.16:395][108]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.28-04.18.16:395][108]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.28-04.18.16:395][108]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.28-04.18.16:395][108]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.28-04.18.16:402][108]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.28-04.18.16:402][108]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 1.09 sec)
+[2024.01.28-04.18.16:402][108]LogPlayLevel: PIE: World Init took: (0.009012s)
+[2024.01.28-04.18.16:402][108]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.28-04.18.16:402][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-04.18.16:402][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-04.18.16:402][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-04.18.16:402][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-04.18.16:402][108]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.28-04.18.16:402][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-04.18.16:402][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.28-04.18.16:402][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-04.18.16:402][108]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-04.18.16:403][108]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-04.18.16:403][108]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-04.18.16:405][108]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-04.18.16:420][108]LogAudioMixer: Display: Using Audio Hardware Device Out 1-2 (MOTU M Series)
+[2024.01.28-04.18.16:420][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-04.18.16:420][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-04.18.16:420][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-04.18.16:421][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.01.28-04.18.16:421][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.01.28-04.18.16:422][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.01.28-04.18.16:422][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.01.28-04.18.16:422][108]LogInit: FAudioDevice initialized with ID 2.
+[2024.01.28-04.18.16:422][108]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2024.01.28-04.18.16:423][108]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.28-04.18.16:427][108]LogLoad: Game class is 'GM_ShooterGame_C'
+[2024.01.28-04.18.16:444][108]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.27-22.18.16
+[2024.01.28-04.18.16:446][108]LogWorld: Bringing up level for play took: 0.018261
+[2024.01.28-04.18.16:448][108]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.01.28-04.18.16:471][108]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.01.28-04.18.16:476][108]PIE: Server logged in
+[2024.01.28-04.18.16:476][108]PIE: Play in editor total start time 0.137 seconds.
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: ================================================
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Total job queries 275, among them cache hits 52 (18.91%)
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Tracking 223 distinct input hashes that result in 191 distinct outputs (85.65%)
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: RAM used: 5.56 MiB of 3.20 GiB budget. Usage: 0.17%
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 0.51 s
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Job life time (pending + execution): average 0.59 s, max 0.59
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Shader code size: average 35.896 KiB, min 30.352 KiB, max 41.441 KiB
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.59 s
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Average processing rate: 1.69 jobs/sec
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Total thread time: 0.329 s
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Total thread preprocess time: 0.024 s
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Percentage time preprocessing: 7.35%
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Effective parallelization: 0.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.01.28-04.18.16:606][110]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.01.28-04.18.16:607][110]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.01.28-04.18.16:607][110]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.01.28-04.18.16:607][110]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 51.56% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2024.01.28-04.18.16:607][110]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 48.44% of total time (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2024.01.28-04.18.16:607][110]LogShaderCompilers: Display: ================================================
+[2024.01.28-04.18.48:478][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-04.18.48:478][ 87]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.28-04.18.48:478][ 87]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-04.18.48:482][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-04.18.48:482][ 87]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.28-04.18.48:487][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-04.18.48:493][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-04.18.48:504][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-04.18.48:507][ 87]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.28-04.18.48:508][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.28-04.18.48:510][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.28-04.18.48:514][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-04.18.48:524][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.01.28-04.18.48:558][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_33
