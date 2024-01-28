@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Added to debloat repo size (need to rebuild assets once opened)
+/Saved/Cooked/*
