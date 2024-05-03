@@ -2,7 +2,7 @@
 
 ## Overview
 
- This project was my capstone for the game development bootcamp I recently completed, and it was my first time using Unreal Engine. I challenged myself to complete the game in three days, which was ridiculous... but a lot of fun. "Crossbow Training" is a simple FPS high-score game. You have a crossbow with unlimited ammo and must walk around a small village map to shoot all 50 targets before time runs out. There are two types of targets: ones that give you points (Normal) and ones that lose you points (Bomb). Normal targets yield 150 points for a center shot and 50 for anywhere else. Bomb targets, indicated by a slightly red hue and a bomb icon in the center, blow apart and subtract 25 points. How high of a score can you get?
+ This project was my capstone for the game development bootcamp I recently completed, and it was my first time using Unreal Engine. I challenged myself to complete the bulk of the game in three days, which was ridiculous... but a lot of fun. "Crossbow Training" is a simple FPS high-score game. You have a crossbow with unlimited ammo and must walk around a small village map to shoot all 50 targets before time runs out. There are two types of targets: ones that give you points (Normal) and ones that lose you points (Bomb). Normal targets yield 150 points for a center shot and 50 for anywhere else. Bomb targets, indicated by a slightly red hue and a bomb icon in the center, blow apart and subtract 25 points. How high of a score can you get?
 
  The are a lot of features I wanted to add, detailed below, but wasn't able to within the timeframe. 
 
@@ -43,8 +43,10 @@ To play "Crossbow Training," follow these simple steps:
 3. Run the executable.
 
 ## Controls
+**Note: Currently only Keyboard and Mouse support**
 - Move -> W (Forward), A (Back), S (Left), D (Right)
 - Shoot -> LMB
+- Look -> Mouse Movement
 
 Enjoy your midevil adventure! :)
 
