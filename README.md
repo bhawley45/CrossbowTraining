@@ -2,9 +2,9 @@
 
 ## Overview
 
- This project was my capstone for the game development bootcamp I recently completed, and my first time using Unreal Egnine. I challenged myself to complete the game in in 3-days, which was ridiculous... But was a lot of fun. Crossbow Training is a simple FPS highscore game. You have a crossbow with unlimited ammo and have to walk around a small village map and shoot all 50 targets before the time runs out. There are 2 types of targets: ones that give you points (Normal) , and ones that lose you points (Bomb). Normal targets give 150pts. for a center shot and 50 for anywhere else. Bomb targets, indicated by a slightly red hue and bomb decal in the center, blow apart and subtract 25pts. How high of a score can you get?
+ This project was my capstone for the game development bootcamp I recently completed, and it was my first time using Unreal Engine. I challenged myself to complete the game in three days, which was ridiculous... but a lot of fun. "Crossbow Training" is a simple FPS high-score game. You have a crossbow with unlimited ammo and must walk around a small village map to shoot all 50 targets before time runs out. There are two types of targets: ones that give you points (Normal) and ones that lose you points (Bomb). Normal targets yield 150 points for a center shot and 50 for anywhere else. Bomb targets, indicated by a slightly red hue and a bomb icon in the center, blow apart and subtract 25 points. How high of a score can you get?
 
- The are a lot of features I wanted to add but wasn't able to within the timeframe, including the main menu being fully functional. 
+ The are a lot of features I wanted to add, detailed below, but wasn't able to within the timeframe. 
 
  ### Features to add:
     -> "Wisps" to guide the player to the nearest 5 un-shot targets
@@ -20,7 +20,7 @@
 
 - **3D Design**: A fun midevil themed village in a valley
 - **FPS Gameplay**: FPS style crossbow shooting with custom models and animations
-- **Low-Poly Vibrant Art style**
+- **Art style**: Vibrant low-poly world design
 
 ## Game Engine
 
@@ -28,11 +28,11 @@
 
 ## Game Development
 
-  Development took place over about 3 days. I started with a similar outline style to "Droppin' Tilted" and begain working on mechanics for the game. I opted to use Blueprints instead of C++ for scripting due to the time constraints. Once the mechanics were finalized I begain blocking out the level, for texturess and models I used various packs from the Unreal Asset Store. I wasn't able to find a goot crossbow model with animations, so with this project I also dabbled a bit into Blender for the first time. I took a simeple crossbow model and made a reload animation and bolt model so there was a visible projectile being shot. 
+  Development took place over about three days. I started with a similar outline style to "Droppin' Tilted" and began by working on game mechanics. I opted to use Blueprints instead of C++ for scripting due to time constraints. Once the mechanics were finalized, I began blocking out the level. For textures and models, I used various packs from the Unreal Asset Store. I wasn't able to find a good crossbow model with animations, so with this project, I also dabbled a bit in Blender for the first time. I took a simple crossbow model, made a reload animation, and created a bolt model so there was a visible projectile being shot.
 
 ## Challenges and Learnings
 
- Saying this project was provided a lot of learning opportinities would be an understatment. I didn't realize just how different Unreal and Unity were at first, then I added Blender... I would not recommend this to anyone, but it forced me to grow as a developer in quite a few ways. I had to be extremely organized and have a clear plan of action to meet the deadline. 
+ Saying this project provided a lot of learning opportunities would be an understatement. At first, I didn't realize just how different Unreal and Unity were, and then I added Blender... I would not recommend this approach to anyone, but it forced me to grow as a developer in quite a few ways. I had to be extremely organized and have a clear plan of action to meet the deadline.
 
 ## How to Play
 
@@ -41,7 +41,10 @@ To play "Crossbow Training," follow these simple steps:
 1. Download the latest release from the repository's [Releases](#) page.
 2. Unzip the downloaded file.
 3. Run the executable.
-   
+
+## Controls
+Move -> W (Forward), A (Back), S (Left), D (Right)
+Shoot -> LMB
 
 Enjoy your midevil adventure! :)
 
