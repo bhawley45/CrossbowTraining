@@ -43,8 +43,8 @@ To play "Crossbow Training," follow these simple steps:
 3. Run the executable.
 
 ## Controls
-Move -> W (Forward), A (Back), S (Left), D (Right)
-Shoot -> LMB
+- Move -> W (Forward), A (Back), S (Left), D (Right)
+- Shoot -> LMB
 
 Enjoy your midevil adventure! :)
 
