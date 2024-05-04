@@ -22,6 +22,10 @@
 - **FPS Gameplay**: FPS style crossbow shooting with custom models and animations
 - **Art style**: Vibrant low-poly world design
 
+## Added after initial completion
+- Un-shot targets have a slight glow when the player is near
+- Partial settings menu implimentation
+
 ## Game Engine
 
  This game was developed using Unreal Engine 5.3.2
@@ -29,6 +33,8 @@
 ## Game Development
 
   Development took place over about three days. I started with a similar outline style to "Droppin' Tilted" and began by working on game mechanics. I opted to use Blueprints instead of C++ for scripting due to time constraints. Once the mechanics were finalized, I began blocking out the level. For textures and models, I used various packs from the Unreal Asset Store. I wasn't able to find a good crossbow model with animations, so with this project, I also dabbled a bit in Blender for the first time. I took a simple crossbow model, made a reload animation, and created a bolt model so there was a visible projectile being shot.
+
+  I've slowly been adding features to this project, it probably won't get much more as I've moved on to different projects, but I hope you enjoy :) 
 
 ## Challenges and Learnings
 
